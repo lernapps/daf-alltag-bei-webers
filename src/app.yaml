@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+format: 2
+subject: daf
+title:
+  de: Alltag bei Webers
+  en: Everyday Life at the Webers'
+intro:
+  de: "Begleite Peter durch den Alltag bei Gastfamilie Weber in Lindenberg – von Familie, Wohnung und Abendbrot bis zu Wetter, Arztbesuch, Hausordnung und gesunder Ernährung (A1 bis B1)."
+  en: "Follow Peter through everyday family life with the Webers in Lindenberg — from family, home, and Abendbrot to weather, doctor visits, house rules, and balanced nutrition (A1 to B1)."
+languages: [de, en]
+chapters:
+  - familie-alltag
+  - koerper-wetter-alltag
+  - kleidung-gesundheit-nachbarschaft
+  - ernaehrung-fitness

@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Körper, Wetter, Feiertage und Alltagsgespräche"
+  en: "Body, Weather, Holidays and Everyday Dialogues"
+summary:
+  de: "Körperteile und erste Gesundheitssätze, Wetter und Jahreszeiten, große Feiertage im Kalender der Webers und kurze Alltagsdialoge in Lindenberg (A1)."
+  en: "Body parts and basic health phrases, weather and seasons, major public holidays on the Webers' calendar, and short everyday dialogues in Lindenberg (A1)."
+pages:
+  - vorwissen
+  - koerper-gesundheit-a1
+  - wetter-jahreszeiten
+  - feiertage-braeuche-a1
+  - alltagsgespraeche-a1

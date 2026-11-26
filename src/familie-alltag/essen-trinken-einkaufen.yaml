@@ -1,0 +1,119 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Essen, Trinken und Einkaufen"
+  en: "Food, Drinks, and Shopping"
+description:
+  de: "Alltägliche Lebensmittel, Getränke, Mahlzeiten und Geschäfte benennen und nach Preisen fragen."
+  en: "Name everyday foods, drinks, meals, and shops and ask for items and prices."
+competencies: [essen-trinken-einkaufen]
+blocks:
+  - type: section
+    id: einkaufsliste
+    title:
+      de: Mit Mina beim Bäcker und im Supermarkt
+      en: With Mina at the Bakery and Supermarket
+    blocks:
+      - type: text
+        text:
+          de: "Samstagmorgen in Lindenberg: Peter und Mina füllen den **Essensplan** auf der Haus-und-Alltags-Tafel. Zuerst holen sie **Brötchen** in der **Bäckerei**, dann gehen sie in den **Supermarkt** – und geben am Automaten leere Flaschen mit **Pfand** ab."
+          en: "Saturday morning in Lindenberg: Peter and Mina fill in the **meal planner** on the Home-and-Daily-Life Board. First they pick up **Brötchen** (bread rolls) at the **Bäckerei** (bakery), then they go to the **Supermarkt** — and return empty deposit bottles (**Pfand**) at the reverse vending machine."
+      - type: vocabulary
+        caption:
+          de: "Lebensmittel, Getränke und Geschäfte"
+          en: "Food, drinks, and shops"
+        languages: { source: en, target: de }
+        entries:
+          - target: das Brot / das Brötchen
+            source: bread / bread roll
+            forms: [\"die Brote / die Brötchen\"]
+            example: { target: "Ich hätte gern vier Brötchen.", source: "I would like four bread rolls." }
+          - target: der Käse / die Wurst
+            source: cheese / cold cuts (sausage)
+          - target: das Obst / das Gemüse
+            source: fruit / vegetables
+          - target: der Apfel / die Kartoffel
+            source: apple / potato
+            forms: [\"die Äpfel / die Kartoffeln\"]
+          - target: das Wasser / der Saft / die Milch
+            source: water / juice / milk
+          - target: die Bäckerei / der Supermarkt
+            source: bakery / supermarket
+          - target: das Pfand
+            source: bottle deposit
+            note:
+              de: "In Deutschland zahlt man 0,08 € bis 0,25 € Pfand pro Flasche und bekommt es bei der Rückgabe wieder."
+              en: "In Germany you pay €0.08–€0.25 deposit per bottle and get it back when returning it."
+      - type: example
+        title:
+          de: Nützliche Sätze beim Einkaufen
+          en: Useful Shopping Phrases
+        blocks:
+          - type: text
+            text:
+              de: |
+                - **Ich hätte gern …** (*I would like …*) – höflicher als *Ich will …*
+                - **Was kostet das? / Wie viel kosten die Äpfel?** (*How much is that / are the apples?*)
+                - **Sonst noch etwas? – Nein, danke, das ist alles.** (*Anything else? — No thanks, that's all.*)
+              en: |
+                - **Ich hätte gern …** (*I would like …*) — politer than *Ich will …*
+                - **Was kostet das? / Wie viel kosten die Äpfel?** (*How much is that / are the apples?*)
+                - **Sonst noch etwas? – Nein, danke, das ist alles.** (*Anything else? — No thanks, that's all.*)
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: matching
+        id: lebensmittel-zuordnen
+        text:
+          de: "Ordne jedes Lebensmittel dem passenden Oberbegriff oder Geschäft zu."
+          en: "Match each item to its category or shop."
+        pairs:
+          - left:
+              de: vier Brötchen
+              en: vier Brötchen
+            right:
+              de: die Bäckerei
+              en: die Bäckerei
+          - left:
+              de: der Apfel
+              en: der Apfel
+            right:
+              de: das Obst
+              en: das Obst
+          - left:
+              de: die Kartoffel
+              en: die Kartoffel
+            right:
+              de: das Gemüse
+              en: das Gemüse
+          - left:
+              de: der Apfelsaft
+              en: der Apfelsaft
+            right:
+              de: das Getränk
+              en: das Getränk
+        explanation:
+          de: "Brötchen kauft man in der Bäckerei, Äpfel sind Obst, Kartoffeln sind Gemüse und Saft ist ein Getränk."
+          en: "Brötchen are bought at the bakery, apples are fruit (Obst), potatoes are vegetables (Gemüse), and juice is a drink."
+      - type: language-task
+        id: baecker-bestellung
+        languages: { source: en, target: de }
+        mode: gap
+        task:
+          de: "Ergänze Peters Dialog in der Lindenberger Bäckerei."
+          en: "Complete Peter's dialogue at the Lindenberg bakery."
+        items:
+          - source: "I would like four bread rolls, please."
+            target: "Ich hätte gern vier [Brötchen], bitte."
+          - source: "How much does the bread cost?"
+            target: "Was [kostet] das Brot?"
+          - source: "No, thank you, that is all."
+            target: "Nein, danke, das ist [alles]."
+        hint:
+          de: "Achte auf die Singularform 'kostet' bei 'das Brot' und auf Großschreibung bei 'Brötchen'."
+          en: "Use the singular 'kostet' with 'das Brot' and capitalize 'Brötchen'."
+        explanation:
+          de: "Mit 'Ich hätte gern …', 'Was kostet …?' und 'Das ist alles' meisterst du jeden kurzen Einkauf."
+          en: "With 'Ich hätte gern …', 'Was kostet …?', and 'Das ist alles', you can handle any short shop visit."

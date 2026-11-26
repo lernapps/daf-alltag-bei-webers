@@ -1,0 +1,131 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Ernährung, Fitness und Wohlbefinden"
+  en: "Nutrition, Fitness, and Well-Being"
+description:
+  de: "Über ausgewogene Ernährung, Bewegung, Stressabbau und Gesundheitsvorsorge auf B1-Niveau sprechen."
+  en: "Talk about balanced nutrition, exercise, stress management, and everyday healthcare at B1 level."
+competencies: [gesundheit-ernaehrung-b1]
+blocks:
+  - type: section
+    id: lebensstil
+    title:
+      de: Peters und Minas Gesundheits-Bilanz
+      en: Peter and Mina's Health Check-In
+    blocks:
+      - type: text
+        text:
+          de: "Im Frühling vergleichen Peter und Mina ihre Gewohnheiten auf dem **Gesundheitscheck** der Tafel: Mina trainiert dreimal pro Woche im **Sportverein** und achtet auf **ausgewogene Ernährung**; Peter merkt vor Klassenarbeiten, wie sehr **Stress** und Schlafmangel die Konzentration drücken."
+          en: "In spring, Peter and Mina compare habits on the **health check** of the board: Mina trains three times a week at the local **sports club** (*Sportverein*) and pays attention to **balanced nutrition** (*ausgewogene Ernährung*); before exams, Peter notices how much **stress** and lack of sleep affect concentration."
+      - type: vocabulary
+        caption:
+          de: "Wortschatz für Ernährung, Fitness und Stress (B1)"
+          en: "Vocabulary for nutrition, fitness, and stress (B1)"
+        languages: { source: en, target: de }
+        entries:
+          - target: die ausgewogene Ernährung
+            source: balanced nutrition
+            example:
+              {
+                target: "Eine ausgewogene Ernährung enthält viel Gemüse und Vollkorn.",
+                source: "A balanced diet includes plenty of vegetables and whole grains.",
+              }
+          - target: die Bewegung / der Sportverein
+            source: physical exercise / sports club
+          - target: der Stress / sich entspannen
+            source: stress / to relax
+            example:
+              { target: "Nach der Schule entspanne ich mich beim Joggen.", source: "After school I relax by jogging." }
+          - target: der Schlafmangel / ausreichend schlafen
+            source: lack of sleep / to get enough sleep
+          - target: die Vorsorge / die Krankenkasse
+            source: preventive healthcare / health insurance provider
+            note:
+              de: "In Deutschland übernehmen gesetzliche Krankenkassen viele Vorsorgeuntersuchungen."
+              en: "In Germany, public health insurance funds (Krankenkassen) cover many preventive check-ups."
+          - target: verzichten auf (+ Akk.)
+            source: to cut down on / do without
+            example:
+              {
+                target: "Ich versuche, auf zu viel Zucker zu verzichten.",
+                source: "I try to cut down on too much sugar.",
+              }
+      - type: table
+        caption:
+          de: "Argumente und Ratschläge auf B1 formulieren"
+          en: "Expressing arguments and advice at B1"
+        header:
+          - { de: Ziel, en: Purpose }
+          - { de: Redemittel (B1), en: Useful B1 Phrasing }
+        rows:
+          - - { de: Grund nennen, en: Giving a reason }
+            - {
+                de: "Es ist wichtig, sich regelmäßig zu bewegen, **weil** Bewegung Stress abbaut.",
+                en: "It is important to exercise regularly, **because** exercise reduces stress.",
+              }
+          - - { de: Folge nennen, en: Stating a consequence }
+            - {
+                de: "Ich schlafe oft zu wenig, **deshalb** bin ich morgens müde.",
+                en: "I often sleep too little, **therefore** I am tired in the morning.",
+              }
+          - - { de: Ratschlag geben, en: Giving advice }
+            - {
+                de: "An deiner Stelle **würde** ich öfter frisch kochen und Pausen machen.",
+                en: "In your place, I **would** cook fresh meals more often and take breaks.",
+              }
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: single-choice
+        id: b1-ratschlag-waehlen
+        text:
+          de: "Peter klagt vor einer schweren Mathearbeit: „Ich lerne bis Mitternacht, trinke drei Energy-Drinks und kann nicht schlafen.“ Welcher B1-Ratschlag von Mina passt sprachlich und inhaltlich am besten?"
+          en: "Before a tough math exam, Peter complains: „Ich lerne bis Mitternacht, trinke drei Energy-Drinks und kann nicht schlafen.“ Which B1 advice from Mina fits best?"
+        options:
+          - text:
+              de: "An deiner Stelle würde ich abends auf Energy-Drinks verzichten und früher schlafen gehen, weil Schlafmangel die Konzentration verschlechtert."
+              en: "An deiner Stelle würde ich abends auf Energy-Drinks verzichten und früher schlafen gehen, weil Schlafmangel die Konzentration verschlechtert."
+            correct: true
+            info:
+              de: "Starkes B1! Der Satz kombiniert Konjunktiv II ('würde'), 'verzichten auf' und einen begründeten 'weil'-Nebensatz."
+              en: "Strong B1! It combines Konjunktiv II ('würde'), 'verzichten auf', and a 'weil' reason clause."
+          - text:
+              de: "Ich habe Kopfschmerzen und mein Bein tut weh."
+              en: "Ich habe Kopfschmerzen und mein Bein tut weh."
+            correct: false
+            info:
+              de: "Das beschreibt eigene A1-Symptome, gibt aber keinen Ratschlag zu Peters Stressproblem."
+              en: "That describes personal A1 symptoms rather than giving advice on Peter's stress."
+          - text:
+              de: "Trink noch mehr Energy-Drinks, deshalb wirst du sofort entspannt."
+              en: "Trink noch mehr Energy-Drinks, deshalb wirst du sofort entspannt."
+            correct: false
+            info:
+              de: "Inhaltlich falsch: Energy-Drinks verstärken Unruhe und Schlafmangel statt zu entspannen."
+              en: "Factually wrong: energy drinks worsen restlessness and sleep deprivation rather than helping you relax."
+        explanation:
+          de: "Auf B1-Niveau verbindest du Empfehlungen ('An deiner Stelle würde ich …') mit klaren Begründungen ('weil …', 'deshalb …')."
+          en: "At B1 level, you combine recommendations ('An deiner Stelle würde ich …') with clear reasons ('weil …', 'deshalb …')."
+      - type: language-task
+        id: b1-gesundheit-luecken
+        languages: { source: en, target: de }
+        mode: gap
+        task:
+          de: "Ergänze Peters B1-Reflexion über gesunden Alltag in Lindenberg."
+          en: "Complete Peter's B1 reflection on healthy everyday life in Lindenberg."
+        items:
+          - source: "I try to cut down on too much sugar."
+            target: "Ich versuche, auf zu viel Zucker zu [verzichten]."
+          - source: "Regular exercise reduces stress."
+            target: "Regelmäßige [Bewegung] baut [Stress] ab."
+          - source: "My health insurance covers preventive check-ups."
+            target: "Meine [Krankenkasse] übernimmt die [Vorsorge]."
+        hint:
+          de: "Achte auf Großschreibung bei Nomen (Bewegung, Stress, Krankenkasse, Vorsorge) und Kleinschreibung beim Verb 'verzichten'."
+          en: "Capitalize nouns (Bewegung, Stress, Krankenkasse, Vorsorge) and keep the verb 'verzichten' lowercase."
+        explanation:
+          de: "Mit 'verzichten auf', 'Bewegung', 'Stress abbauen', 'Krankenkasse' und 'Vorsorge' kannst du Gesundheitsthemen differenziert diskutieren."
+          en: "Using 'verzichten auf', 'Bewegung', 'Stress abbauen', 'Krankenkasse', and 'Vorsorge' lets you discuss health topics at B1 level."

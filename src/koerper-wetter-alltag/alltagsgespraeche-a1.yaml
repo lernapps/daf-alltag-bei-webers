@@ -1,0 +1,104 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Einfache Alltagsgespräche
+  en: Simple Everyday Dialogues
+description:
+  de: "Kurze Alltagsdialoge wie Essen bestellen, einkaufen und einfache Fragen stellen sicher meistern."
+  en: "Manage short everyday dialogues such as ordering food, shopping, and asking simple questions."
+competencies: [alltagsgespraeche-a1]
+blocks:
+  - type: section
+    id: baeckerei-cafe
+    title:
+      de: "Drei Schritte für jeden kurzen Dialog"
+      en: "Three Steps for Any Short Dialogue"
+    blocks:
+      - type: text
+        text:
+          de: "In Lindenberg meistert Peter kurze Gespräche in der Bäckerei, im Café oder auf der Straße fast immer nach demselben Muster: **1. Begrüßen**, **2. Wunsch oder Frage äußern**, **3. Bezahlen und verabschieden**."
+          en: "In Lindenberg, Peter handles short conversations at the bakery, café, or on the street using the same three-step pattern: **1. Greet**, **2. State your request or question**, **3. Pay and say goodbye**."
+      - type: example
+        title:
+          de: "Mini-Dialog im Café Lindenberg"
+          en: "Mini-Dialogue at Café Lindenberg"
+        blocks:
+          - type: text
+            text:
+              de: |
+                - **Bedienung:** Guten Tag! Was möchten Sie gern?
+                - **Peter:** Guten Tag! Ich hätte gern einen Apfelsaft und ein Stück Käsekuchen, bitte.
+                - **Bedienung:** Gern! Sonst noch etwas?
+                - **Peter:** Nein, danke. Was kostet das zusammen?
+                - **Bedienung:** Das macht 6,80 €.
+                - **Peter:** Hier sind 7,50 €, stimmt so. Vielen Dank und auf Wiedersehen!
+              en: |
+                - **Server:** Guten Tag! Was möchten Sie gern? (*Good day! What would you like?*)
+                - **Peter:** Guten Tag! Ich hätte gern einen Apfelsaft und ein Stück Käsekuchen, bitte. (*I would like an apple juice and a slice of cheesecake, please.*)
+                - **Server:** Gern! Sonst noch etwas? (*Gladly! Anything else?*)
+                - **Peter:** Nein, danke. Was kostet das zusammen? (*No, thank you. How much is that together?*)
+                - **Server:** Das macht 6,80 €. (*That comes to €6.80.*)
+                - **Peter:** Hier sind 7,50 €, stimmt so. Vielen Dank und auf Wiedersehen! (*Here is €7.50, keep the change. Thank you and goodbye!*)
+      - type: note
+        title:
+          de: "Wenn du etwas nicht verstehst"
+          en: "When You Do Not Understand"
+        blocks:
+          - type: text
+            text:
+              de: "Zwei Sätze retten jeden A1-Dialog: **„Entschuldigung, können Sie das bitte wiederholen?“** (*Could you please repeat that?*) und **„Sprechen Sie bitte etwas langsamer?“** (*Could you please speak a bit more slowly?*)."
+              en: "Two sentences save any A1 dialogue: **„Entschuldigung, können Sie das bitte wiederholen?“** (*Could you please repeat that?*) and **„Sprechen Sie bitte etwas langsamer?“** (*Could you please speak a bit more slowly?*)."
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: ordering
+        id: dialog-reihenfolge
+        text:
+          de: "Bringe dieses kurze Gespräch in der Bäckerei in die richtige Reihenfolge."
+          en: "Put this short bakery dialogue in the right order."
+        items:
+          - de: "Peter: Guten Morgen! Ich hätte gern zwei Brötchen, bitte."
+            en: "Peter: Guten Morgen! Ich hätte gern zwei Brötchen, bitte."
+          - de: "Verkäuferin: Gern! Sonst noch etwas?"
+            en: "Verkäuferin: Gern! Sonst noch etwas?"
+          - de: "Peter: Nein, danke, das ist alles. Was kostet das?"
+            en: "Peter: Nein, danke, das ist alles. Was kostet das?"
+          - de: "Verkäuferin: Das macht 1,20 €, bitte."
+            en: "Verkäuferin: Das macht 1,20 €, bitte."
+          - de: "Peter: Hier, bitte schön. Danke und tschüss!"
+            en: "Peter: Hier, bitte schön. Danke und tschüss!"
+        explanation:
+          de: "Ein Alltagsdialog folgt dem festen Ablauf: Gruß und Wunsch → Rückfrage → Abschluss und Preisfrage → Betrag → Bezahlen und Abschied."
+          en: "An everyday dialogue follows a clear flow: greeting and request → follow-up question → closing and price question → total → payment and goodbye."
+      - type: single-choice
+        id: nachfragen-dialog
+        text:
+          de: "Die Apothekerin spricht sehr schnell und Peter versteht den Preis nicht. Was sagt er am besten?"
+          en: "The pharmacist speaks very quickly and Peter misses the price. What is the best thing to say?"
+        options:
+          - text:
+              de: "Entschuldigung, können Sie das bitte noch einmal langsamer sagen?"
+              en: "Entschuldigung, können Sie das bitte noch einmal langsamer sagen?"
+            correct: true
+            info:
+              de: "Höflich, klar und direkt zielführend: Du bittest um eine langsamere Wiederholung."
+              en: "Polite, clear, and effective: you ask for a slower repetition."
+          - text:
+              de: "Guten Appetit! Ich habe zwei Geschwister."
+              en: "Guten Appetit! Ich habe zwei Geschwister."
+            correct: false
+            info:
+              de: "Das passt weder zur Situation in der Apotheke noch zu deiner Frage nach dem Preis."
+              en: "That fits neither the pharmacy context nor your question about the price."
+          - text:
+              de: "Tschüss, das macht nichts!"
+              en: "Tschüss, das macht nichts!"
+            correct: false
+            info:
+              de: "Damit beendest du das Gespräch, ohne den Preis erfahren zu haben."
+              en: "That ends the conversation without finding out the price."
+        explanation:
+          de: "Mit 'Entschuldigung, können Sie das bitte wiederholen / langsamer sagen?' bleibst du in jedem Alltagsgespräch handlungsfähig."
+          en: "With 'Entschuldigung, können Sie das bitte wiederholen / langsamer sagen?', you stay in control of any everyday conversation."

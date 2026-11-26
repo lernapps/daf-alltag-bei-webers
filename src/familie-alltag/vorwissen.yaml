@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Das brauchst du hier
+  en: What You Need Here
+description:
+  de: "Kurzer Rückblick vor dem Start bei Familie Weber: Begrüßung, Zahlen und Preise, Uhrzeit und Wochentage sowie Höflichkeit."
+  en: "Quick recap before starting with the Webers: greetings, numbers and prices, time and weekdays, and everyday politeness."
+recap:
+  - daf/begruessung-vorstellung
+  - daf/zahlen-preise
+  - daf/zeit-datum-wochentage
+  - daf/alltag-hoeflichkeit
+blocks:
+  - type: section
+    id: rueckblick
+    title:
+      de: Kurz aufgefrischt
+      en: Quick Refresher
+    blocks:
+      - type: text
+        text:
+          de: |
+            Bevor Peter seine **Haus-und-Alltags-Tafel** bei Familie Weber in Lindenberg ausklappt, prüfe kurz im Kopf, ob diese vier Grundlagen sitzen:
+            - **Begrüßung und Vorstellung** (*Greetings and introductions*): Ich kann Menschen begrüßen, mich verabschieden und Name, Alter und Land nennen (*Hallo, ich bin Peter. Ich komme aus den USA.*).
+            - **Zahlen und Preise** (*Numbers and prices*): Ich kann Zahlen, Preise in Euro und Cent sowie Telefonnummern verstehen und sagen (*3,50 € – drei Euro fünfzig*).
+            - **Uhrzeit, Wochentage, Monate und Datum** (*Time, days, months, and dates*): Ich kann die Uhrzeit angeben sowie Wochentage, Monate und Daten nennen (*Am Montag um halb acht*).
+            - **Höflichkeit im Alltag** (*Everyday politeness in D-A-CH*): Ich kann typische Gruß-, Dank- und Entschuldigungsformeln nutzen (*Guten Morgen! Danke schön! Entschuldigung!*).
+          en: |
+            Before Peter opens his **Home-and-Daily-Life Board** at the Webers' house in Lindenberg, do a quick mental check on these four prerequisites:
+            - **Greetings and introductions**: I can greet people, say goodbye, and give basic personal details like my name, age, and country (*Hallo, ich bin Peter. Ich komme aus den USA.*).
+            - **Numbers and prices**: I can understand and say numbers, prices in euros and cents, and phone numbers (*3,50 € — drei Euro fünfzig*).
+            - **Time, days, months, and dates**: I can tell the time (formal and informal) and name days of the week, months, and dates (*Am Montag um halb acht*).
+            - **Everyday politeness in D-A-CH**: I can use typical greeting, thanking, and apologizing conventions in German-speaking everyday life (*Guten Morgen! Danke schön! Entschuldigung!*).
+      - type: single-choice
+        id: kap1-vorwissen-check
+        text:
+          de: "Peter kauft morgens beim Bäcker ein. Der Preis ist 2,40 €, es ist 7:30 Uhr. Welche Antwort passt zu Uhrzeit, Preis und Höflichkeit?"
+          en: "Peter buys bread at the bakery in the morning. The price is €2.40 and the time is 7:30. Which response fits time, price, and politeness?"
+        options:
+          - text:
+              de: "Guten Morgen! Zwei Euro vierzig, bitte schön. Es ist halb acht."
+              en: "Guten Morgen! Zwei Euro vierzig, bitte schön. Es ist halb acht."
+            correct: true
+            info:
+              de: "Genau: Guten Morgen am Vormittag, 2,40 € = zwei Euro vierzig, 7:30 Uhr = halb acht."
+              en: "Exactly: Guten Morgen in the morning, €2.40 = zwei Euro vierzig, 7:30 = halb acht."
+          - text:
+              de: "Guten Abend! Zwei Euro vierzig, danke. Es ist halb sieben."
+              en: "Guten Abend! Zwei Euro vierzig, danke. Es ist halb sieben."
+            correct: false
+            info:
+              de: "Guten Abend passt erst abends, und halb sieben ist 6:30 Uhr, nicht 7:30 Uhr."
+              en: "Guten Abend is for the evening, and halb sieben is 6:30, not 7:30."
+          - text:
+              de: "Tschüss! Vierundzwanzig Euro, bitte. Es ist Viertel nach sieben."
+              en: "Tschüss! Vierundzwanzig Euro, bitte. Es ist Viertel nach sieben."
+            correct: false
+            info:
+              de: "Tschüss sagt man zum Abschied, 2,40 € sind zwei Euro vierzig, und 7:30 Uhr ist halb acht."
+              en: "Tschüss is for saying goodbye, €2.40 is zwei Euro vierzig, and 7:30 is halb acht."
+        explanation:
+          de: "Im Alltag in Deutschland zählt man halbe Stunden zur nächsten vollen Stunde (7:30 = halb acht), liest Preise als Euro + Cent und grüßt morgens mit Guten Morgen."
+          en: "In Germany, half-hours count toward the next full hour (7:30 = halb acht), prices are read as euros + cents, and mornings start with Guten Morgen."

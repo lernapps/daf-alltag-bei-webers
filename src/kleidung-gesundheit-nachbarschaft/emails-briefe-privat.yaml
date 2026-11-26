@@ -1,0 +1,109 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Private E-Mails und Briefe
+  en: Informal Emails and Letters
+description:
+  de: "Informelle E-Mails und persönliche Nachrichten über Pläne, Neuigkeiten und Einladungen lesen und schreiben."
+  en: "Read and write informal emails and personal messages about everyday plans, news, and invitations."
+competencies: [emails-briefe-privat]
+blocks:
+  - type: section
+    id: aufbau-email
+    title:
+      de: Peters erste längere E-Mail nach Hause
+      en: Peter's First Longer Email Home
+    blocks:
+      - type: text
+        text:
+          de: "Am Sonntagabend schreibt Peter eine längere E-Mail an seinen Freund Ben. Eine gute **private E-Mail** auf A2 hat fünf klare Bausteine: **Betreff**, **Anrede**, **Einleitung**, **Hauptteil** (Neuigkeiten, Pläne oder Einladung) und **Grußformel**."
+          en: "On Sunday evening, Peter writes a longer email to his friend Ben. A clear A2 **informal email** has five parts: **subject line** (*Betreff*), **greeting** (*Anrede*), **opening**, **body** (news, plans, or invitation), and **closing** (*Grußformel*)."
+      - type: example
+        title:
+          de: "Muster-E-Mail von Peter"
+          en: "Sample Email from Peter"
+        blocks:
+          - type: text
+            text:
+              de: |
+                **Betreff:** Grüße aus Lindenberg!
+
+                **Lieber Ben,**
+
+                wie geht es dir? Mir geht es wieder super – meine Erkältung ist endlich weg!
+
+                Bei Familie Weber fühle ich mich richtig wohl. Am Samstag war ich mit Lukas eine warme Winterjacke kaufen, und am Sonntag haben wir zusammen Kaffee und Kuchen gegessen. Hast du Lust, mich in den Osterferien in Lindenberg zu besuchen?
+
+                Schreib mir bald!
+
+                **Liebe Grüße**
+                **Peter**
+              en: |
+                **Betreff:** Grüße aus Lindenberg! (*Greetings from Lindenberg!*)
+
+                **Lieber Ben,** (*Dear Ben,*)
+
+                wie geht es dir? Mir geht es wieder super – meine Erkältung ist endlich weg! (*How are you? I'm doing great again — my cold is finally gone!*)
+
+                Bei Familie Weber fühle ich mich richtig wohl. Am Samstag war ich mit Lukas eine warme Winterjacke kaufen, und am Sonntag haben wir zusammen Kaffee und Kuchen gegessen. Hast du Lust, mich in den Osterferien in Lindenberg zu besuchen? (*Would you like to visit me in Lindenberg during Easter break?*)
+
+                Schreib mir bald! (*Write back soon!*)
+
+                **Liebe Grüße** (*Warm regards*)
+                **Peter**
+      - type: note
+        title:
+          de: "Achtung nach der Anrede!"
+          en: "Watch Out After the Greeting!"
+        blocks:
+          - type: text
+            text:
+              de: "Nach **Lieber Ben,** oder **Liebe Nadia,** steht im Deutschen ein **Komma**, und das nächste Wort beginnt **klein** (*wie geht es dir?*), außer es ist ein Nomen oder *Ich*. Nach **Liebe Grüße** steht **kein Komma**!"
+              en: "After **Lieber Ben,** or **Liebe Nadia,**, German uses a **comma** and starts the next line **lowercase** (*wie geht es dir?*) unless the word is a noun. After **Liebe Grüße**, there is **no comma**!"
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: ordering
+        id: email-aufbau-ordnen
+        text:
+          de: "Bringe die Bausteine einer privaten E-Mail an Nadia in die richtige Reihenfolge."
+          en: "Put the parts of an informal email to Nadia in the right order."
+        items:
+          - de: "Liebe Nadia,"
+            en: "Liebe Nadia,"
+          - de: "vielen Dank für deine Nachricht! Wie war dein Wochenende?"
+            en: "vielen Dank für deine Nachricht! Wie war dein Wochenende?"
+          - de: "Am Samstag kochen wir bei Webers zusammen. Hast du Lust zu kommen?"
+            en: "Am Samstag kochen wir bei Webers zusammen. Hast du Lust zu kommen?"
+          - de: "Sag mir bis Donnerstag Bescheid!"
+            en: "Sag mir bis Donnerstag Bescheid!"
+          - de: "Viele Grüße, Peter"
+            en: "Viele Grüße, Peter"
+        explanation:
+          de: "Auf die Anrede folgen die persönliche Einleitung, dann der eigentliche Grund (Einladung/Neuigkeit), ein Abschlusssatz und die Grußformel."
+          en: "The greeting is followed by a personal opening, then the main news or invitation, a closing line, and the sign-off."
+      - type: language-task
+        id: email-bausteine
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle die passende Formulierung für eine informelle E-Mail."
+          en: "Choose the right phrasing for an informal email."
+        items:
+          - source: "Dear Lukas,"
+            target: "[Lieber] Lukas,"
+            distractors: [["Liebe", "Sehr geehrter"]]
+          - source: "Dear Mina,"
+            target: "[Liebe] Mina,"
+            distractors: [["Lieber", "Sehr geehrte"]]
+          - source: "how are you?"
+            target: "[wie] geht es dir?"
+            distractors: [["Wie", "wer"]]
+          - source: "Warm regards (informal closing)"
+            target: "[Liebe Grüße]"
+            distractors: [["Mit freundlichen Grüßen", "Guten Appetit"]]
+        explanation:
+          de: "Für Freunde nutzt man 'Lieber' (maskulin) / 'Liebe' (feminin), schreibt nach dem Komma klein weiter und schließt mit 'Liebe Grüße' oder 'Viele Grüße' (statt formell 'Mit freundlichen Grüßen')."
+          en: "For friends, use 'Lieber' (m.) / 'Liebe' (f.), continue lowercase after the comma, and close with 'Liebe Grüße' or 'Viele Grüße' (rather than formal 'Mit freundlichen Grüßen')."

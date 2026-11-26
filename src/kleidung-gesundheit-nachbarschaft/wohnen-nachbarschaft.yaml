@@ -1,0 +1,127 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Wohnen und Nachbarschaft
+  en: Housing and Neighborhood Norms
+description:
+  de: "Alltagsregeln rund ums Wohnen in Deutschland erklären: Hausordnung, Ruhezeiten, Stoßlüften und Mülltrennung."
+  en: "Explain everyday housing norms in Germany such as Hausordnung, quiet hours, ventilation, and waste separation."
+competencies: [wohnen-nachbarschaft]
+blocks:
+  - type: section
+    id: hausordnung
+    title:
+      de: Hausordnung und Mülltrennung bei Webers
+      en: House Rules and Waste Separation at the Webers'
+    blocks:
+      - type: text
+        text:
+          de: "Peter lernt schnell drei typische Regeln für das Zusammenleben in Deutschland kennen: **Ruhezeiten** (Nachtruhe ab 22 Uhr und ganztägige Sonntagsruhe – kein Rasenmähen, kein Bohren!), **Stoßlüften** (Fenster kurz ganz öffnen statt dauerhaft kippen) und **Mülltrennung**."
+          en: "Peter quickly learns three typical rules of everyday housing in Germany: **Ruhezeiten** (quiet hours from 10 p.m. and all day Sunday — no lawnmowing or drilling!), **Stoßlüften** (opening windows wide briefly rather than leaving them tilted), and **Mülltrennung** (waste separation)."
+      - type: table
+        caption:
+          de: "Mülltrennung in Lindenberg (typisch für Deutschland)"
+          en: "Waste separation in Lindenberg (typical across Germany)"
+        header:
+          - { de: Tonne / Container, en: Bin / Container }
+          - { de: Was gehört hinein?, en: What goes in? }
+        rows:
+          - - { de: "Gelbe Tonne / Gelber Sack", en: "Yellow bin / yellow bag" }
+            - {
+                de: "Verpackungen aus Plastik, Metall und Verbundstoff (z. B. Joghurtbecher, Dosen).",
+                en: "Plastic, metal, and composite packaging (e.g. yogurt cups, cans).",
+              }
+          - - { de: "Blaue Tonne (Altpapier)", en: "Blue bin (paper)" }
+            - { de: "Zeitungen, Kartons, sauberes Papier.", en: "Newspapers, cardboard boxes, clean paper." }
+          - - { de: "Braune / Grüne Tonne (Biomüll)", en: "Brown / green bin (organic)" }
+            - {
+                de: "Obst- und Gemüseschalen, Kaffeesatz, Essensreste.",
+                en: "Fruit and vegetable peels, coffee grounds, food scraps.",
+              }
+          - - { de: "Schwarze / Graue Tonne (Restmüll)", en: "Black / gray bin (residual)" }
+            - {
+                de: "Alles, was nicht recycelt werden kann (z. B. Taschentücher, Staubsaugerbeutel).",
+                en: "Non-recyclable waste (e.g. used tissues, vacuum bags).",
+              }
+          - - { de: "Altglascontainer (oft an der Straße)", en: "Glass containers (street drop-off)" }
+            - {
+                de: "Glasflaschen ohne Pfand – nach Farben (Weiß, Braun, Grün) getrennt und nur werktags tagsüber einwerfen!",
+                en: "Non-deposit glass bottles — sorted by color (clear, brown, green) and dropped off only during daytime on weekdays/Saturdays!",
+              }
+      - type: note
+        title:
+          de: "Hausordnung in Mehrfamilienhäusern"
+          en: "Hausordnung in Apartment Buildings"
+        blocks:
+          - type: text
+            text:
+              de: "In Mietshäusern hängt die **Hausordnung** oft im Treppenhaus: Sie regelt Ruhezeiten (oft 22–6 Uhr sowie sonntags), das Reinigen des Treppenhauses (Kehrwoche / Putzplan) und das Abstellen von Fahrrädern."
+              en: "In apartment buildings, the **Hausordnung** (house rules) often hangs in the stairwell: it sets quiet hours (typically 10 p.m.–6 a.m. and Sundays), stairwell cleaning duties, and where bicycles may be parked."
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: matching
+        id: muelltrennung-zuordnen
+        text:
+          de: "Peter räumt die Küche auf. Welcher Abfall gehört in welche Tonne?"
+          en: "Peter cleans up the kitchen. Which waste goes into which bin?"
+        pairs:
+          - left:
+              de: ein leerer Joghurtbecher aus Plastik
+              en: an empty plastic yogurt cup
+            right:
+              de: Gelbe Tonne
+              en: Yellow bin (Gelbe Tonne)
+          - left:
+              de: ein Karton und alte Zeitungen
+              en: a cardboard box and old newspapers
+            right:
+              de: Blaue Tonne (Altpapier)
+              en: Blue bin (Altpapier)
+          - left:
+              de: Apfelschalen und Kaffeesatz
+              en: apple peels and coffee grounds
+            right:
+              de: Biotonne
+              en: Organic bin (Biotonne)
+          - left:
+              de: benutzte Papiertaschentücher
+              en: used paper tissues
+            right:
+              de: Restmülltonne
+              en: Residual waste bin (Restmüll)
+        explanation:
+          de: "Verpackungen → Gelbe Tonne, sauberes Papier → Blaue Tonne, Küchenabfälle → Biotonne, schmutziges Papier/Rest → Restmüll."
+          en: "Packaging → Gelbe Tonne, clean paper → Blaue Tonne, food scraps → Biotonne, soiled tissues/other → Restmüll."
+      - type: multiple-choice
+        id: ruhezeiten-regeln
+        text:
+          de: "Es ist Sonntag um 14:30 Uhr in Lindenberg. Welche Aktivitäten verstoßen gegen die übliche Sonntagsruhe?"
+          en: "It is Sunday at 2:30 p.m. in Lindenberg. Which activities violate typical German Sunday quiet hours?"
+        options:
+          - text:
+              de: "Den Rasen mähen oder Löcher in die Wand bohren."
+              en: "Mowing the lawn or drilling holes into the wall."
+            correct: true
+            info:
+              de: "Richtig! Laute Garten- und Heimwerkerarbeiten sind sonntags in Deutschland verboten."
+              en: "Correct! Loud gardening and DIY work are prohibited on Sundays in Germany."
+          - text:
+              de: "Leere Glasflaschen in den Altglascontainer an der Straße werfen."
+              en: "Throwing empty glass bottles into the street glass recycling container."
+            correct: true
+            info:
+              de: "Stimmt! Auf den Containern stehen Einwurfzeiten (meist Mo–Sa 7–20 Uhr), sonntags ist es wegen des Lärms verboten."
+              en: "True! Glass containers post drop-off hours (usually Mon–Sat 7 a.m.–8 p.m.); Sundays are prohibited due to noise."
+          - text:
+              de: "Mit der Gastfamilie Kaffee und Kuchen im Wohnzimmer genießen."
+              en: "Enjoying coffee and cake in the living room with the host family."
+            correct: false
+            info:
+              de: "Normale Gespräche in Zimmerlautstärke sind natürlich jederzeit erlaubt."
+              en: "Normal conversation at indoor volume is of course always allowed."
+        explanation:
+          de: "Die Sonntagsruhe schützt vor Lärm wie Rasenmähen, Bohren und Altglas-Einwerfen."
+          en: "German Sunday quiet hours protect neighbors from loud noise like lawnmowing, drilling, and glass-container drop-offs."

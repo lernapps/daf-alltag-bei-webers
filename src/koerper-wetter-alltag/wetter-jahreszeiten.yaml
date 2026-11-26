@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Wetter, Jahreszeiten und Farben"
+  en: "Weather, Seasons, and Colors"
+description:
+  de: "Farben, die vier Jahreszeiten und grundlegende Wetterbedingungen auf Deutsch benennen."
+  en: "Name colors, seasons, and basic weather conditions in German."
+competencies: [wetter-jahreszeiten]
+blocks:
+  - type: section
+    id: wetterkarte
+    title:
+      de: Der Wetter-und-Kleiderschrank auf der Tafel
+      en: The Weather-and-Wardrobe Closet on the Board
+    blocks:
+      - type: text
+        text:
+          de: "Jeden Morgen schaut Peter vor dem Radfahren auf den **Wetterbereich** seiner Tafel. Die vier **Jahreszeiten** sind alle maskulin (*der Frühling, der Sommer, der Herbst, der Winter*) – mit *im*: **im Winter**, **im Sommer**."
+          en: "Every morning before cycling to school, Peter checks the **weather section** of his board. All four **seasons** are masculine (*der Frühling, der Sommer, der Herbst, der Winter*) — and take *im*: **im Winter**, **im Sommer**."
+      - type: vocabulary
+        caption:
+          de: "Jahreszeiten, Wetter und Farben"
+          en: "Seasons, weather, and colors"
+        languages: { source: en, target: de }
+        entries:
+          - target: der Frühling / der Sommer
+            source: spring / summer
+          - target: der Herbst / der Winter
+            source: autumn / winter
+          - target: die Sonne scheint
+            source: the sun is shining
+          - target: es regnet / es schneit
+            source: it is raining / it is snowing
+            example: { target: "Im Januar schneit es in Lindenberg.", source: "In January it snows in Lindenberg." }
+          - target: warm / heiß / kühl / kalt
+            source: warm / hot / cool / cold
+          - target: windig / bewölkt / sonnig
+            source: windy / cloudy / sunny
+          - target: blau / grün / rot / gelb
+            source: blue / green / red / yellow
+          - target: schwarz / weiß / grau / braun
+            source: black / white / gray / brown
+            example: { target: "Der Himmel ist heute grau.", source: "The sky is gray today." }
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: ordering
+        id: jahreszeiten-reihenfolge
+        text:
+          de: "Ordne die vier Jahreszeiten im Kalenderjahr – beginne mit der Jahreszeit ab März."
+          en: "Put the four seasons in order through the year, starting with the season that begins in March."
+        items:
+          - de: der Frühling
+            en: der Frühling
+          - de: der Sommer
+            en: der Sommer
+          - de: der Herbst
+            en: der Herbst
+          - de: der Winter
+            en: der Winter
+        explanation:
+          de: "Das Jahr verläuft von Frühling (März–Mai) über Sommer und Herbst bis zum Winter (Dezember–Februar)."
+          en: "The cycle runs from Frühling (March–May) through Sommer and Herbst to Winter (December–February)."
+      - type: language-task
+        id: wetter-saetze
+        languages: { source: en, target: de }
+        mode: gap
+        task:
+          de: "Ergänze Peters Wetterbericht für Lindenberg."
+          en: "Complete Peter's weather report for Lindenberg."
+        items:
+          - source: "Today it is raining and the sky is gray."
+            target: "Heute [regnet] es und der Himmel ist [grau]."
+          - source: "In January it is cold and it snows."
+            target: "Im Januar ist es kalt und es [schneit]."
+          - source: "In summer the sun shines and the sky is blue."
+            target: "Im Sommer scheint die [Sonne] und der Himmel ist [blau]."
+        hint:
+          de: "Verben wie 'regnet' und 'schneit' sowie Farben wie 'grau' und 'blau' werden kleingeschrieben; 'Sonne' ist ein Nomen."
+          en: "Verbs ('regnet', 'schneit') and colors ('grau', 'blau') are lowercase; 'Sonne' is a capitalized noun."
+        explanation:
+          de: "Im Deutschen beschreibt man Wetter oft unpersönlich mit 'es' (es regnet, es schneit, es ist kalt) und Farben als kleingeschriebene Adjektive."
+          en: "German often describes weather impersonally with 'es' (es regnet, es schneit, es ist kalt) and uses lowercase adjectives for colors."

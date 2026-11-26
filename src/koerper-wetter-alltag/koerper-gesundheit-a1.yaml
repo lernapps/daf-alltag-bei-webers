@@ -1,0 +1,111 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Körperteile und erste Gesundheitssätze
+  en: Body Parts and Basic Health
+description:
+  de: "Wichtige Körperteile benennen und auf Deutsch sagen, wenn etwas wehtut oder man sich krank fühlt."
+  en: "Name basic parts of the body and say in German when something hurts or you feel sick."
+competencies: [koerper-gesundheit-a1]
+blocks:
+  - type: section
+    id: gesundheitscheck
+    title:
+      de: Peter hat eine Erkältung
+      en: Peter Catches a Cold
+    blocks:
+      - type: text
+        text:
+          de: "Im Herbst erwischt Peter in Lindenberg eine Erkältung. Auf dem **Gesundheitscheck** seiner Tafel notiert er die wichtigsten Körperteile und zwei Muster, um Schmerzen zu nennen: **Mein Kopf tut weh** (Singular) / **Meine Ohren tun weh** (Plural) oder **Ich habe Kopfschmerzen**."
+          en: "In autumn, Peter catches a cold in Lindenberg. On the **health check** of his board, he writes down key body parts and two patterns to say something hurts: **Mein Kopf tut weh** (singular) / **Meine Ohren tun weh** (plural), or **Ich habe Kopfschmerzen** (I have a headache)."
+      - type: vocabulary
+        caption:
+          de: "Körperteile und Schmerzen"
+          en: "Body parts and aches"
+        languages: { source: en, target: de }
+        entries:
+          - target: der Kopf
+            source: head
+            example: { target: "Mein Kopf tut weh.", source: "My head hurts." }
+          - target: der Hals
+            source: throat / neck
+            example: { target: "Ich habe Halsschmerzen.", source: "I have a sore throat." }
+          - target: das Auge / das Ohr
+            source: eye / ear
+            forms: [\"die Augen / die Ohren\"]
+          - target: die Nase / der Mund
+            source: nose / mouth
+          - target: der Bauch / der Rücken
+            source: stomach / back
+          - target: der Arm / die Hand
+            source: arm / hand
+            forms: [\"die Arme / die Hände\"]
+          - target: das Bein / der Fuß
+            source: leg / foot
+            forms: [\"die Beine / die Füße\"]
+          - target: krank / gesund
+            source: sick / healthy
+            example: { target: "Ich bin krank und habe Fieber.", source: "I am sick and have a fever." }
+          - target: Gute Besserung!
+            source: Get well soon!
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: matching
+        id: koerperteile-zuordnen
+        text:
+          de: "Ordne die deutschen Körperteile ihren englischen Bedeutungen zu."
+          en: "Match the German body parts to their English meanings."
+        pairs:
+          - left:
+              de: der Hals
+              en: der Hals
+            right:
+              de: throat / neck
+              en: throat / neck
+          - left:
+              de: der Bauch
+              en: der Bauch
+            right:
+              de: stomach
+              en: stomach
+          - left:
+              de: der Rücken
+              en: der Rücken
+            right:
+              de: back
+              en: back
+          - left:
+              de: das Bein
+              en: das Bein
+            right:
+              de: leg
+              en: leg
+        explanation:
+          de: "Mit diesen Körperteilen und der Endung '-schmerzen' kannst du fast jedes Symptom benennen: Halsschmerzen, Bauchschmerzen, Rückenschmerzen."
+          en: "With these body parts plus '-schmerzen', you can name almost any ache: Halsschmerzen, Bauchschmerzen, Rückenschmerzen."
+      - type: language-task
+        id: schmerzen-sagen
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle das passende Wort für Peters Gespräch mit Frau Weber."
+          en: "Choose the right word for Peter's conversation with Frau Weber."
+        items:
+          - source: "My head hurts."
+            target: "Mein Kopf [tut] weh."
+            distractors: [["tun", "bin"]]
+          - source: "My legs hurt after soccer."
+            target: "Meine Beine [tun] weh."
+            distractors: [["tut", "habe"]]
+          - source: "I am sick today."
+            target: "Ich bin heute [krank]."
+            distractors: [["gesund", "Fieber"]]
+          - source: "Frau Weber says: Get well soon!"
+            target: "Frau Weber sagt: Gute [Besserung]!"
+            distractors: [["Gesundheit", "Appetit"]]
+        explanation:
+          de: "Ein Körperteil im Singular braucht 'tut weh', mehrere Körperteile im Plural brauchen 'tun weh'. Wer krank ist, bekommt 'Gute Besserung!' gewünscht."
+          en: "One body part (singular) takes 'tut weh'; multiple body parts (plural) take 'tun weh'. When someone is sick, you wish them 'Gute Besserung!'."
