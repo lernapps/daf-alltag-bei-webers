@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "subject": "daf",
+  "pages": [
+    {
+      "path": "familie-alltag/vorwissen/",
+      "title": {
+        "de": "Das brauchst du hier",
+        "en": "What You Need Here"
+      },
+      "recap": [
+        "daf/begruessung-vorstellung",
+        "daf/zahlen-preise",
+        "daf/zeit-datum-wochentage",
+        "daf/alltag-hoeflichkeit"
+      ]
+    },
+    {
+      "path": "familie-alltag/familie-freunde/",
+      "title": {
+        "de": "Familie und Freunde",
+        "en": "Family and Friends"
+      },
+      "competencies": [
+        "familie-freunde"
+      ]
+    },
+    {
+      "path": "familie-alltag/wohnen-zimmer/",
+      "title": {
+        "de": "Wohnen, Zimmer und Möbel",
+        "en": "Home, Rooms, and Furniture"
+      },
+      "competencies": [
+        "wohnen-zimmer"
+      ]
+    },
+    {
+      "path": "familie-alltag/tagesablauf-freizeit/",
+      "title": {
+        "de": "Tagesablauf und Freizeit",
+        "en": "Daily Routine and Hobbies"
+      },
+      "competencies": [
+        "tagesablauf-freizeit"
+      ]
+    },
+    {
+      "path": "familie-alltag/essen-trinken-einkaufen/",
+      "title": {
+        "de": "Essen, Trinken und Einkaufen",
+        "en": "Food, Drinks, and Shopping"
+      },
+      "competencies": [
+        "essen-trinken-einkaufen"
+      ]
+    },
+    {
+      "path": "familie-alltag/esskultur-mahlzeiten/",
+      "title": {
+        "de": "Esskultur und Mahlzeiten",
+        "en": "Food Culture and Meals"
+      },
+      "competencies": [
+        "esskultur-mahlzeiten"
+      ]
+    },
+    {
+      "path": "koerper-wetter-alltag/vorwissen/",
+      "title": {
+        "de": "Das brauchst du hier",
+        "en": "What You Need Here"
+      },
+      "recap": [
+        "daf/durchsagen-verstehen-a1",
+        "daf/w-fragen"
+      ]
+    },
+    {
+      "path": "koerper-wetter-alltag/koerper-gesundheit-a1/",
+      "title": {
+        "de": "Körperteile und erste Gesundheitssätze",
+        "en": "Body Parts and Basic Health"
+      },
+      "competencies": [
+        "koerper-gesundheit-a1"
+      ]
+    },
+    {
+      "path": "koerper-wetter-alltag/wetter-jahreszeiten/",
+      "title": {
+        "de": "Wetter, Jahreszeiten und Farben",
+        "en": "Weather, Seasons, and Colors"
+      },
+      "competencies": [
+        "wetter-jahreszeiten"
+      ]
+    },
+    {
+      "path": "koerper-wetter-alltag/feiertage-braeuche-a1/",
+      "title": {
+        "de": "Feiertage und Bräuche",
+        "en": "Public Holidays and Traditions"
+      },
+      "competencies": [
+        "feiertage-braeuche-a1"
+      ]
+    },
+    {
+      "path": "koerper-wetter-alltag/alltagsgespraeche-a1/",
+      "title": {
+        "de": "Einfache Alltagsgespräche",
+        "en": "Simple Everyday Dialogues"
+      },
+      "competencies": [
+        "alltagsgespraeche-a1"
+      ]
+    },
+    {
+      "path": "kleidung-gesundheit-nachbarschaft/vorwissen/",
+      "title": {
+        "de": "Das brauchst du hier",
+        "en": "What You Need Here"
+      },
+      "recap": "daf/kurze-nachrichten-schreiben"
+    },
+    {
+      "path": "kleidung-gesundheit-nachbarschaft/kleidung-aussehen/",
+      "title": {
+        "de": "Kleidung und Aussehen",
+        "en": "Clothing and Appearance"
+      },
+      "competencies": [
+        "kleidung-aussehen"
+      ]
+    },
+    {
+      "path": "kleidung-gesundheit-nachbarschaft/gesundheit-arztbesuch/",
+      "title": {
+        "de": "Gesundheit und Arztbesuch",
+        "en": "Doctor Visits and Health"
+      },
+      "competencies": [
+        "gesundheit-arztbesuch"
+      ]
+    },
+    {
+      "path": "kleidung-gesundheit-nachbarschaft/wohnen-nachbarschaft/",
+      "title": {
+        "de": "Wohnen und Nachbarschaft",
+        "en": "Housing and Neighborhood Norms"
+      },
+      "competencies": [
+        "wohnen-nachbarschaft"
+      ]
+    },
+    {
+      "path": "kleidung-gesundheit-nachbarschaft/emails-briefe-privat/",
+      "title": {
+        "de": "Private E-Mails und Briefe",
+        "en": "Informal Emails and Letters"
+      },
+      "competencies": [
+        "emails-briefe-privat"
+      ]
+    },
+    {
+      "path": "ernaehrung-fitness/gesundheit-ernaehrung-b1/",
+      "title": {
+        "de": "Ernährung, Fitness und Wohlbefinden",
+        "en": "Nutrition, Fitness, and Well-Being"
+      },
+      "competencies": [
+        "gesundheit-ernaehrung-b1"
+      ]
+    }
+  ]
+}
