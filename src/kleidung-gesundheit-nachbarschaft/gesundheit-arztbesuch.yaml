@@ -1,0 +1,133 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Gesundheit und Arztbesuch
+  en: Doctor Visits and Health
+description:
+  de: "Symptome beschreiben, einfache Ratschläge in der Arztpraxis oder Apotheke verstehen und über Gesundheit sprechen."
+  en: "Describe symptoms, understand simple advice at the doctor's or pharmacy, and talk about staying healthy."
+competencies: [gesundheit-arztbesuch]
+blocks:
+  - type: section
+    id: arztpraxis
+    title:
+      de: Bei der Hausärztin und in der Apotheke
+      en: At the Family Doctor's and the Pharmacy
+    blocks:
+      - type: text
+        text:
+          de: "Sams Erkältung wird schlimmer: Er hat **Husten**, **Schnupfen** und leichtes **Fieber**. Frau Weber ruft in der **Arztpraxis** an und macht einen **Termin**. Sam nimmt seine **Versichertenkarte** mit – danach holt er in der **Apotheke** Medikamente auf **Rezept**."
+          en: "Sam's cold gets worse: he has a **Husten** (cough), **Schnupfen** (runny nose), and a slight **Fieber** (fever). Frau Weber calls the **Arztpraxis** (doctor's office) to book a **Termin** (appointment). Sam brings his **Versichertenkarte** (health insurance card), then picks up his medication with a **Rezept** (prescription) at the **Apotheke** (pharmacy)."
+      - type: vocabulary
+        caption:
+          de: "Symptome, Arztbesuch und Apotheke"
+          en: "Symptoms, doctor's visit, and pharmacy"
+        languages: { source: en, target: de }
+        entries:
+          - target: der Termin
+            source: appointment
+            example:
+              {
+                target: "Ich brauche bitte einen Termin bei Frau Dr. Klein.",
+                source: "I need an appointment with Dr. Klein, please.",
+              }
+          - target: die Versichertenkarte
+            source: health insurance card
+          - target: der Husten / der Schnupfen / das Fieber
+            source: cough / runny nose / fever
+          - target: das Rezept
+            source: prescription
+            note:
+              de: "Im Alltag bedeutet 'das Rezept' sowohl Kochrezept als auch ärztliches Rezept."
+              en: "In German, 'das Rezept' means both a cooking recipe and a doctor's prescription."
+          - target: die Apotheke
+            source: pharmacy
+          - target: die Tablette / der Hustensaft
+            source: tablet (pill) / cough syrup
+          - target: die Krankschreibung
+            source: sick note (for school or work)
+          - target: sich ausruhen / viel trinken
+            source: to rest / to drink plenty of fluids
+      - type: example
+        title:
+          de: "Ratschläge der Ärztin verstehen"
+          en: "Understanding the Doctor's Advice"
+        blocks:
+          - type: text
+            text:
+              de: |
+                - **„Nehmen Sie die Tabletten dreimal täglich nach dem Essen.“** (*Take the tablets three times a day after meals.*)
+                - **„Bleiben Sie drei Tage im Bett und trinken Sie viel Tee.“** (*Stay in bed for three days and drink lots of tea.*)
+                - **„Hier ist Ihre Krankschreibung für die Schule.“** (*Here is your sick note for school.*)
+              en: |
+                - **„Nehmen Sie die Tabletten dreimal täglich nach dem Essen.“** (*Take the tablets three times a day after meals.*)
+                - **„Bleiben Sie drei Tage im Bett und trinken Sie viel Tee.“** (*Stay in bed for three days and drink lots of tea.*)
+                - **„Hier ist Ihre Krankschreibung für die Schule.“** (*Here is your sick note for school.*)
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: matching
+        id: arzt-begriffe
+        text:
+          de: "Ordne jeden Begriff der passenden Situation in Deutschland zu."
+          en: "Match each German term to the right situation in Germany."
+        pairs:
+          - left:
+              de: die Versichertenkarte
+              en: die Versichertenkarte
+            right:
+              de: "zeigt man an der Anmeldung in der Arztpraxis"
+              en: "shown at the reception desk of the doctor's office"
+          - left:
+              de: das Rezept
+              en: das Rezept
+            right:
+              de: "braucht man in der Apotheke für bestimmte Medikamente"
+              en: "needed at the pharmacy for prescription medication"
+          - left:
+              de: die Krankschreibung
+              en: die Krankschreibung
+            right:
+              de: "entschuldigt das Fehlen in der Schule oder Arbeit"
+              en: "excuses absence from school or work"
+          - left:
+              de: der Hustensaft
+              en: der Hustensaft
+            right:
+              de: "hilft bei starkem Husten"
+              en: "helps with a bad cough"
+        explanation:
+          de: "In Deutschland gehören Termin, Versichertenkarte, Rezept und Krankschreibung zum normalen Ablauf eines Arztbesuchs."
+          en: "In Germany, Termin, Versichertenkarte, Rezept, and Krankschreibung are standard parts of visiting a doctor."
+      - type: single-choice
+        id: dosierung-verstehen
+        text:
+          de: "Auf Sams Medikament steht: „Zweimal täglich eine Tablette vor dem Essen.“ Was soll Sam tun?"
+          en: "Sam's medication label says: „Zweimal täglich eine Tablette vor dem Essen.“ What should Sam do?"
+        options:
+          - text:
+              de: "Er nimmt zweimal am Tag jeweils eine Tablette, bevor er isst."
+              en: "He takes one tablet twice a day, before eating."
+            correct: true
+            info:
+              de: "Genau: 'zweimal täglich' = twice a day, 'vor dem Essen' = before meals."
+              en: "Exactly: 'zweimal täglich' = twice a day, 'vor dem Essen' = before meals."
+          - text:
+              de: "Er nimmt zwei Tabletten auf einmal nach dem Abendbrot."
+              en: "He takes two tablets at once after dinner."
+            correct: false
+            info:
+              de: "'zweimal täglich eine Tablette' bedeutet eine Tablette zu zwei verschiedenen Tageszeiten, und 'vor' heißt before."
+              en: "'zweimal täglich eine Tablette' means one tablet at two different times of day, and 'vor' means before."
+          - text:
+              de: "Er nimmt nur eine Tablette pro Woche."
+              en: "He takes only one tablet per week."
+            correct: false
+            info:
+              de: "'täglich' bedeutet jeden Tag (daily), nicht wöchentlich."
+              en: "'täglich' means daily, not weekly."
+        explanation:
+          de: "Wichtige Dosierungsangaben sind 'einmal / zweimal / dreimal täglich' sowie 'vor dem Essen' und 'nach dem Essen'."
+          en: "Key dosage phrases are 'einmal / zweimal / dreimal täglich' (1x/2x/3x daily) and 'vor / nach dem Essen' (before / after meals)."

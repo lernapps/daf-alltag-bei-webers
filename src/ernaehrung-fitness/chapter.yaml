@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Ernährung, Fitness und Wohlbefinden"
+  en: "Nutrition, Fitness and Well-Being"
+summary:
+  de: "B1-Abschluss auf Sams Gesundheitscheck: ausgewogene Ernährung, Bewegung, Stressabbau und Gesundheitsvorsorge im Alltag bei Webers."
+  en: "B1 capstone on Sam's health check: balanced nutrition, exercise, stress management, and everyday healthcare at the Webers'."
+pages:
+  - gesundheit-ernaehrung-b1

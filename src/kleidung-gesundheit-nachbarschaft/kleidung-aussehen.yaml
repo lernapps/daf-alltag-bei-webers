@@ -1,0 +1,109 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Kleidung und Aussehen
+  en: Clothing and Appearance
+description:
+  de: "Kleidung, Kleidergrößen, Aussehen und erste Charaktereigenschaften auf Deutsch beschreiben."
+  en: "Describe clothes, sizes, physical appearance, and basic personality traits in German."
+competencies: [kleidung-aussehen]
+blocks:
+  - type: section
+    id: kleiderschrank
+    title:
+      de: Im Wetter-und-Kleiderschrank
+      en: Inside the Weather-and-Wardrobe Closet
+    blocks:
+      - type: text
+        text:
+          de: "Der Winter in Lindenberg wird kälter, also geht Sam mit Lukas einkaufen und ergänzt den **Kleiderschrank** auf seiner Tafel. Beim Anprobieren helfen drei A2-Sätze: **Welche Größe haben Sie?**, **Die Jacke passt gut** (*fits*) und **Blau steht dir!** (*suits you!*)."
+          en: "Winter in Lindenberg is getting colder, so Sam goes shopping with Lukas and updates the **wardrobe closet** on his board. Three A2 phrases help when trying things on: **Welche Größe haben Sie?** (*What size do you wear?*), **Die Jacke passt gut** (*fits*), and **Blau steht dir!** (*suits you!*)."
+      - type: vocabulary
+        caption:
+          de: "Kleidung, Aussehen und Charakter"
+          en: "Clothing, appearance, and personality"
+        languages: { source: en, target: de }
+        entries:
+          - target: die Jacke / der Mantel
+            source: jacket / coat
+            forms: [\"die Jacken / die Mäntel\"]
+          - target: der Pullover / das T-Shirt
+            source: sweater / T-shirt
+          - target: die Hose / das Kleid / der Rock
+            source: trousers / dress / skirt
+          - target: die Schuhe / die Stiefel
+            source: shoes / boots (plural)
+          - target: die Größe (S, M, L / 38, 42)
+            source: clothing or shoe size
+            example: { target: "Haben Sie den Pullover in Größe M?", source: "Do you have the sweater in size M?" }
+          - target: passen / stehen
+            source: to fit (size) / to suit (look)
+            note:
+              de: "Die Hose passt mir (Größe stimmt). Die Farbe steht dir (sieht gut aus)."
+              en: "'passen' is about size/fit; 'stehen' is about how something looks on someone."
+          - target: groß / klein / schlank
+            source: tall / short / slim
+          - target: blonde / braune / lange / kurze Haare
+            source: blond / brown / long / short hair
+          - target: freundlich / hilfsbereit / lustig / ruhig
+            source: friendly / helpful / funny / quiet
+            example:
+              {
+                target: "Nadia ist sehr hilfsbereit und trägt eine Brille.",
+                source: "Nadia is very helpful and wears glasses.",
+              }
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: single-choice
+        id: passen-oder-stehen
+        text:
+          de: "Sam probiert eine warme blaue Jacke an. Die Größe M ist genau richtig, nicht zu eng und nicht zu weit. Was sagt Lukas?"
+          en: "Sam tries on a warm blue jacket. Size M is just right, neither too tight nor too loose. What does Lukas say?"
+        options:
+          - text:
+              de: "Die Jacke passt dir super!"
+              en: "Die Jacke passt dir super!"
+            correct: true
+            info:
+              de: "Richtig! Für die richtige Größe verwendet man im Deutschen 'passen'."
+              en: "Correct! For the right size/fit, German uses 'passen'."
+          - text:
+              de: "Die Jacke ist zu klein für dich."
+              en: "Die Jacke ist zu klein für dich."
+            correct: false
+            info:
+              de: "Sie ist genau richtig, also nicht zu klein."
+              en: "It is just right, so not too small."
+          - text:
+              de: "Die Jacke wohnt dir gut."
+              en: "Die Jacke wohnt dir gut."
+            correct: false
+            info:
+              de: "'wohnen' bedeutet 'to live (in a place)' und wird nie für Kleidung benutzt."
+              en: "'wohnen' means 'to live (in a place)' and is never used for clothes."
+        explanation:
+          de: "'passen' beschreibt die richtige Größe, 'stehen' beschreibt, ob Farbe oder Stil jemandem gut aussehen."
+          en: "'passen' describes the right size/fit; 'stehen' describes whether a color or style looks good on someone."
+      - type: language-task
+        id: kleidung-beschreibung
+        languages: { source: en, target: de }
+        mode: gap
+        task:
+          de: "Ergänze Sams Beschreibung von seinem Winter-Outfit und von Nadia."
+          en: "Complete Sam's description of his winter outfit and of Nadia."
+        items:
+          - source: "In winter Sam wears a warm jacket."
+            target: "Im Winter trägt Sam eine warme [Jacke]."
+          - source: "Do you have the sweater in size M?"
+            target: "Haben Sie den Pullover in [Größe] M?"
+          - source: "Nadia wears glasses and is very helpful."
+            target: "Nadia trägt eine [Brille] und ist sehr [hilfsbereit]."
+        hint:
+          de: "Nomen (Jacke, Größe, Brille) werden großgeschrieben, das Adjektiv 'hilfsbereit' klein."
+          en: "Capitalize nouns (Jacke, Größe, Brille) and keep the adjective 'hilfsbereit' lowercase."
+        explanation:
+          de: "Mit Kleidungsstücken, Größe, Brille und Charakter-Adjektiven kannst du Personen im Alltag klar beschreiben."
+          en: "Combining clothing items, sizes, glasses, and personality adjectives lets you describe people clearly."

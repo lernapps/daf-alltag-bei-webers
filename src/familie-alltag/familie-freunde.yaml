@@ -1,0 +1,117 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Familie und Freunde
+  en: Family and Friends
+description:
+  de: "Familienmitglieder, Freunde und grundlegende Beziehungsbegriffe auf Deutsch benennen."
+  en: "Name family members, friends, and basic marital and relationship words in German."
+competencies: [familie-freunde]
+blocks:
+  - type: section
+    id: stammbaum
+    title:
+      de: Webers Stammbaum auf der Tafel
+      en: The Webers' Family Tree on the Board
+    blocks:
+      - type: text
+        text:
+          de: "Am ersten Abend in Lindenberg zeichnet Sam den Stammbaum seiner Gastfamilie auf seine **Haus-und-Alltags-Tafel**: Katrin und Thomas Weber sind **verheiratet**. Sie sind die **Eltern** von Lukas (15) und Mina (12). In der Schule hat Sam schon eine neue **Freundin** gefunden – Nadia."
+          en: "On his first evening in Lindenberg, Sam draws his host family's tree on his **Home-and-Daily-Life Board**: Katrin and Thomas Weber are **verheiratet** (married). They are the **Eltern** (parents) of Lukas (15) and Mina (12). At school, Sam has already made a new friend — Nadia."
+      - type: vocabulary
+        caption:
+          de: Familie, Freunde und Familienstand
+          en: Family, friends, and relationship words
+        languages: { source: en, target: de }
+        entries:
+          - target: die Eltern
+            source: parents (plural)
+            example: { target: "Katrin und Thomas sind die Eltern.", source: "Katrin and Thomas are the parents." }
+          - target: die Mutter
+            source: mother
+            forms: [\"die Mütter\"]
+          - target: der Vater
+            source: father
+            forms: [\"die Väter\"]
+          - target: der Bruder
+            source: brother
+            forms: [\"die Brüder\"]
+          - target: die Schwester
+            source: sister
+            forms: [\"die Schwestern\"]
+          - target: die Geschwister
+            source: siblings (plural)
+            note:
+              de: "Nur im Plural gebräuchlich: Lukas und Mina sind Geschwister."
+              en: "Used in the plural: Lukas and Mina are siblings."
+          - target: die Großeltern
+            source: grandparents (Oma & Opa)
+          - target: der Freund / die Freundin
+            source: friend / boyfriend / girlfriend
+            note:
+              de: "Mit 'ein Freund' ist meist ein guter Bekannter gemeint, mit 'mein Freund' oft der Partner."
+              en: "'ein Freund' usually means a friend; 'mein Freund' often means boyfriend."
+          - target: verheiratet / ledig / geschieden
+            source: married / single / divorced
+            example:
+              { target: "Frau Weber und Herr Weber sind verheiratet.", source: "Ms. Weber and Mr. Weber are married." }
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: matching
+        id: familie-zuordnen
+        text:
+          de: "Wer ist wer bei Familie Weber? Ordne die deutschen Begriffe den englischen Bedeutungen zu."
+          en: "Who is who in the Weber family? Match the German words to their English meanings."
+        pairs:
+          - left:
+              de: die Geschwister
+              en: die Geschwister
+            right:
+              de: siblings
+              en: siblings
+          - left:
+              de: die Großeltern
+              en: die Großeltern
+            right:
+              de: grandparents
+              en: grandparents
+          - left:
+              de: verheiratet
+              en: verheiratet
+            right:
+              de: married
+              en: married
+          - left:
+              de: der Bruder
+              en: der Bruder
+            right:
+              de: brother
+              en: brother
+        explanation:
+          de: "Die Pluralwörter 'die Eltern', 'die Geschwister' und 'die Großeltern' fassen jeweils zwei Rollen zusammen."
+          en: "The plural nouns 'die Eltern', 'die Geschwister', and 'die Großeltern' each group two family roles together."
+      - type: language-task
+        id: familie-schreiben
+        languages: { source: en, target: de }
+        mode: gap
+        task:
+          de: "Ergänze Sams Notizen über Familie Weber auf Deutsch."
+          en: "Complete Sam's notes about the Weber family in German."
+        items:
+          - source: "Katrin is Mina's mother."
+            target: "Katrin ist Minas [Mutter]."
+          - source: "Lukas is Mina's brother."
+            target: "Lukas ist Minas [Bruder]."
+          - source: "Mina is Lukas's sister."
+            target: "Mina ist Lukas' [Schwester]."
+          - source: "Thomas and Katrin are married."
+            target: "Thomas und Katrin sind [verheiratet]."
+        hint:
+          de: "Denk an Großschreibung bei Nomen (Mutter, Bruder, Schwester) und Kleinschreibung bei Adjektiven (verheiratet)."
+          en: "Remember to capitalize German nouns (Mutter, Bruder, Schwester) and keep adjectives lowercase (verheiratet)."
+        explanation:
+          de: "Im Deutschen werden alle Nomen großgeschrieben; Familienstands-Adjektive wie 'verheiratet' oder 'ledig' stehen klein."
+          en: "In German, all nouns are capitalized; marital status adjectives like 'verheiratet' or 'ledig' stay lowercase."

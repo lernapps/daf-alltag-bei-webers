@@ -1,0 +1,129 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Esskultur und Mahlzeiten
+  en: Food Culture and Meals
+description:
+  de: "Typische Essenszeiten, Bäckereien, Cafés sowie Trinkgeld- und Bezahlgewohnheiten im deutschsprachigen Raum beschreiben."
+  en: "Describe typical meal times, bakeries, cafés, and restaurant customs such as tipping and paying in German-speaking countries."
+competencies: [esskultur-mahlzeiten]
+blocks:
+  - type: section
+    id: mahlzeiten
+    title:
+      de: Frühstück, Mittagessen und Abendbrot
+      en: Breakfast, Lunch, and Abendbrot
+    blocks:
+      - type: text
+        text:
+          de: "Sam staunt an seinem ersten Sonntag bei Familie Weber: Die warme Hauptmahlzeit gibt es oft **mittags**, während man abends häufig kaltes **Abendbrot** isst – Brot oder Brötchen mit Käse, Wurst und Rohkost. Nachmittags laden Webers manchmal zu **Kaffee und Kuchen** ein."
+          en: "Sam is surprised on his first Sunday at the Webers': the warm main meal is often eaten at **lunchtime**, while dinner is traditionally a cold **Abendbrot** — bread or rolls with cheese, cold cuts, and sliced vegetables. In the afternoon, the Webers sometimes have **Kaffee und Kuchen** (coffee and cake)."
+      - type: table
+        caption:
+          de: "Typische Mahlzeiten und Bräuche in Deutschland"
+          en: "Typical meals and dining customs in Germany"
+        header:
+          - { de: Anlass, en: Occasion }
+          - { de: Typisch in Deutschland, en: Typical in Germany }
+        rows:
+          - - { de: "Frühstück (ca. 7–9 Uhr)", en: "Breakfast (approx. 7–9 a.m.)" }
+            - {
+                de: "Brötchen mit Butter, Marmelade oder Käse, Müsli, Kaffee oder Tee.",
+                en: "Bread rolls with butter, jam or cheese, muesli, coffee or tea.",
+              }
+          - - { de: "Mittagessen (ca. 12–14 Uhr)", en: "Lunch (approx. 12–2 p.m.)" }
+            - {
+                de: "Traditionell die warme Hauptmahlzeit (in der Mensa, Kantine oder zu Hause).",
+                en: "Traditionally the warm main meal (at the school cafeteria, canteen, or home).",
+              }
+          - - { de: "Abendbrot (ca. 18–20 Uhr)", en: "Abendbrot / Dinner (approx. 6–8 p.m.)" }
+            - {
+                de: "Oft kaltes Brot mit Belag, Salat oder Suppe; heute auch oft warm.",
+                en: "Often cold bread with toppings, salad, or soup; today also often warm.",
+              }
+          - - { de: "Restaurant & Café", en: "Restaurant & Café" }
+            - {
+                de: "Man sagt 'Guten Appetit!', bezahlt direkt am Tisch und rundet meist ca. 5–10 % als Trinkgeld auf.",
+                en: "People say 'Guten Appetit!', pay at the table, and usually round up about 5–10% as a tip.",
+              }
+      - type: note
+        title:
+          de: "Bezahlen im Restaurant: Zusammen oder getrennt?"
+          en: "Paying at a Restaurant: Together or Separate?"
+        blocks:
+          - type: text
+            text:
+              de: "Die Bedienung fragt oft: **„Zusammen oder getrennt?“** (*Together or separate?*). Wenn die Rechnung 18,40 € beträgt und du 20 € gibst, sagst du direkt beim Bezahlen: **„Machen Sie zwanzig, bitte.“** oder **„Stimmt so.“** – man lässt Trinkgeld selten erst nachher auf dem Tisch liegen."
+              en: "The server often asks: **„Zusammen oder getrennt?“** (*Together or separate?*). If the bill is €18.40 and you hand over €20, you say directly when paying: **„Machen Sie zwanzig, bitte.“** (*Make it twenty*) or **„Stimmt so.“** (*Keep the change*) — people rarely leave a tip on the table afterward."
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: single-choice
+        id: trinkgeld-verhalten
+        text:
+          de: "Sam und Herr Weber essen in einem Café in Lindenberg. Die Rechnung beträgt 13,50 €. Sam möchte 15 € inklusive Trinkgeld zahlen. Was sagt er zur Bedienung?"
+          en: "Sam and Herr Weber eat at a café in Lindenberg. The bill is €13.50. Sam wants to pay €15 including tip. What does he say to the server?"
+        options:
+          - text:
+              de: "„Fünfzehn Euro, bitte.“ (und gibt den Schein direkt beim Bezahlen)"
+              en: "„Fünfzehn Euro, bitte.“ (handing over the bill directly when paying)"
+            correct: true
+            info:
+              de: "Genau so macht man es in Deutschland: den neuen Gesamtbetrag direkt beim Bezahlen nennen."
+              en: "That is the standard custom in Germany: state the new total directly as you pay."
+          - text:
+              de: "Er zahlt genau 13,50 € und lässt das Kleingeld still auf dem Tisch liegen."
+              en: "He pays exactly €13.50 and silently leaves coins on the table afterward."
+            correct: false
+            info:
+              de: "In Deutschland rundet man den Betrag direkt im Gespräch mit der Bedienung auf, statt Geld unkommentiert liegen zu lassen."
+              en: "In Germany, you round up directly with the server rather than leaving coins silently on the table."
+          - text:
+              de: "Er gibt 25 € Trinkgeld, weil 100 % in Deutschland üblich sind."
+              en: "He tips €25, because 100% is customary in Germany."
+            correct: false
+            info:
+              de: "Üblich sind in Deutschland etwa 5–10 % (bei kleinen Beträgen einfach auf den nächsten runden Euro)."
+              en: "Customary tipping in Germany is around 5–10% (or rounding up to the next clean euro for small bills)."
+        explanation:
+          de: "Beim Bezahlen im deutschsprachigen Raum nennt man direkt die aufgerundete Endsumme (ca. 5–10 % Trinkgeld)."
+          en: "When paying in German-speaking countries, you state the rounded-up total directly (about 5–10% tip)."
+      - type: multiple-choice
+        id: esskultur-fakten
+        text:
+          de: "Welche Aussagen über die Esskultur in Deutschland treffen zu?"
+          en: "Which statements about food culture in Germany are true?"
+        options:
+          - text:
+              de: "Vor dem Essen wünscht man einander „Guten Appetit!“."
+              en: "Before eating, people wish each other „Guten Appetit!“."
+            correct: true
+            info:
+              de: "Richtig! „Guten Appetit!“ (oder informell „Guten!“) ist die übliche Formel vor jeder Mahlzeit."
+              en: "Correct! „Guten Appetit!“ is the standard phrase before meals."
+          - text:
+              de: "„Abendbrot“ bedeutet traditionell eine kalte Mahlzeit mit Brot und Belag am Abend."
+              en: "„Abendbrot“ traditionally means a cold evening meal with bread and toppings."
+            correct: true
+            info:
+              de: "Stimmt! Viele Familien essen mittags warm und abends Brot mit Käse, Wurst oder Gemüse."
+              en: "True! Many families eat a warm lunch and bread with cheese, cold cuts, or vegetables in the evening."
+          - text:
+              de: "Im Restaurant darf man niemals getrennt bezahlen."
+              en: "You are never allowed to pay separately in a restaurant."
+            correct: false
+            info:
+              de: "Im Gegenteil: Getrennt zu zahlen („Getrennt, bitte“) ist in Deutschland völlig normal."
+              en: "On the contrary: paying separately („Getrennt, bitte“) is completely normal in Germany."
+          - text:
+              de: "„Kaffee und Kuchen“ ist eine typische Nachmittagstradition, besonders am Wochenende."
+              en: "„Kaffee und Kuchen“ is a typical afternoon tradition, especially on weekends."
+            correct: true
+            info:
+              de: "Genau, oft zwischen 15 und 17 Uhr mit Familie oder Freunden."
+              en: "Exactly, often between 3 and 5 p.m. with family or friends."
+        explanation:
+          de: "Guten Appetit, kaltes Abendbrot, Kaffee und Kuchen am Nachmittag sowie getrennte Rechnungen gehören zum deutschen Alltag."
+          en: "Saying Guten Appetit, cold Abendbrot, afternoon coffee and cake, and separate bills are all everyday German customs."

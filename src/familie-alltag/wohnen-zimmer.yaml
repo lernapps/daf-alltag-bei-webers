@@ -1,0 +1,126 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: "Wohnen, Zimmer und Möbel"
+  en: "Home, Rooms, and Furniture"
+description:
+  de: "Zimmer, Möbel und wichtige Haushaltsgegenstände nennen, um eine Wohnung oder ein Haus zu beschreiben."
+  en: "Name rooms, furniture, and everyday household items to describe a home."
+competencies: [wohnen-zimmer]
+blocks:
+  - type: section
+    id: grundriss
+    title:
+      de: Der Grundriss der Webers
+      en: The Webers' Floor Plan
+    blocks:
+      - type: text
+        text:
+          de: "Nächster Bereich auf Sams **Haus-und-Alltags-Tafel**: der Grundriss des Hauses in Lindenberg. Unten liegen **das Wohnzimmer**, **die Küche** und **der Flur**. Oben hat Sam sein eigenes **Zimmer** neben **dem Bad**."
+          en: "Next section on Sam's **Home-and-Daily-Life Board**: the floor plan of the house in Lindenberg. Downstairs are **das Wohnzimmer** (living room), **die Küche** (kitchen), and **der Flur** (hallway). Upstairs, Sam has his own room next to **das Bad** (bathroom)."
+      - type: vocabulary
+        caption:
+          de: "Zimmer und Möbel im Haus"
+          en: "Rooms and furniture in the house"
+        languages: { source: en, target: de }
+        entries:
+          - target: die Wohnung / das Haus
+            source: apartment / house
+          - target: das Wohnzimmer
+            source: living room
+            example:
+              { target: "Im Wohnzimmer steht ein großes Sofa.", source: "In the living room there is a big sofa." }
+          - target: die Küche
+            source: kitchen
+            forms: [\"die Küchen\"]
+          - target: das Schlafzimmer
+            source: bedroom
+          - target: das Bad / das Badezimmer
+            source: bathroom
+          - target: der Flur
+            source: hallway
+          - target: das Bett
+            source: bed
+            forms: [\"die Betten\"]
+          - target: der Schreibtisch
+            source: desk
+            forms: [\"die Schreibtische\"]
+          - target: der Stuhl
+            source: chair
+            forms: [\"die Stühle\"]
+          - target: der Schrank
+            source: wardrobe / cupboard
+            forms: [\"die Schränke\"]
+          - target: das Regal
+            source: shelf / bookcase
+            forms: [\"die Regale\"]
+          - target: die Lampe
+            source: lamp
+            forms: [\"die Lampen\"]
+      - type: note
+        title:
+          de: "Artikel-Tipp: Zusammengesetzte Nomen"
+          en: "Article Tip: Compound Nouns"
+        blocks:
+          - type: text
+            text:
+              de: "Bei zusammengesetzten Wörtern bestimmt immer der **letzte Teil** den Artikel: *das Zimmer* → *das Wohnzimmer*, *das Schlafzimmer*, *das Kinderzimmer*; *der Tisch* → *der Schreibtisch*."
+              en: "In German compound nouns, the **last part** always determines the article: *das Zimmer* → *das Wohnzimmer*, *das Schlafzimmer*; *der Tisch* → *der Schreibtisch*."
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: single-choice
+        id: zimmer-artikel
+        text:
+          de: "Welcher Satz beschreibt Sams Zimmer grammatisch und inhaltlich richtig?"
+          en: "Which sentence describes Sam's room accurately in German?"
+        options:
+          - text:
+              de: "In meinem Zimmer stehen ein Bett, ein Schreibtisch und ein Regal."
+              en: "In meinem Zimmer stehen ein Bett, ein Schreibtisch und ein Regal."
+            correct: true
+            info:
+              de: "Richtig! Alle drei Gegenstände sind typische Zimmermöbel mit den passenden unbestimmten Artikeln."
+              en: "Correct! All three items are typical bedroom furniture with the right indefinite articles."
+          - text:
+              de: "In meinem Zimmer stehen eine Küche, ein Flur und ein Haus."
+              en: "In meinem Zimmer stehen eine Küche, ein Flur und ein Haus."
+            correct: false
+            info:
+              de: "Küche, Flur und Haus sind Räume bzw. das Gebäude, keine Möbel in einem Zimmer."
+              en: "Küche, Flur, and Haus are rooms or the building itself, not furniture inside a room."
+          - text:
+              de: "In meinem Zimmer stehen eine Bett und eine Schreibtisch."
+              en: "In meinem Zimmer stehen eine Bett und eine Schreibtisch."
+            correct: false
+            info:
+              de: "Es heißt 'das Bett' (ein Bett) und 'der Schreibtisch' (ein Schreibtisch), nicht 'eine'."
+              en: "It is 'das Bett' (ein Bett) and 'der Schreibtisch' (ein Schreibtisch), not 'eine'."
+        explanation:
+          de: "Für maskuline (der) und neutrale (das) Nomen lautet der unbestimmte Artikel im Nominativ 'ein', für feminine (die) Nomen 'eine'."
+          en: "For masculine (der) and neuter (das) nouns, the nominative indefinite article is 'ein'; for feminine (die) nouns, it is 'eine'."
+      - type: language-task
+        id: moebel-luecken
+        languages: { source: en, target: de }
+        mode: choice
+        task:
+          de: "Wähle das passende deutsche Wort für Sams Grundriss."
+          en: "Choose the right German word for Sam's floor plan."
+        items:
+          - source: "We cook in the kitchen."
+            target: "Wir kochen in der [Küche]."
+            distractors: [["Lampe", "Wohnung"]]
+          - source: "Sam studies at the desk."
+            target: "Sam lernt am [Schreibtisch]."
+            distractors: [["Sofa", "Bett"]]
+          - source: "The clothes are in the wardrobe."
+            target: "Die Kleidung ist im [Schrank]."
+            distractors: [["Stuhl", "Flur"]]
+          - source: "The books are on the shelf."
+            target: "Die Bücher stehen im [Regal]."
+            distractors: [["Bad", "Tisch"]]
+        explanation:
+          de: "Küche (kitchen), Schreibtisch (desk), Schrank (wardrobe) und Regal (shelf) gehören zum Grundwortschatz fürs Wohnen."
+          en: "Küche (kitchen), Schreibtisch (desk), Schrank (wardrobe), and Regal (shelf) are core housing vocabulary."

@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Das brauchst du hier
+  en: What You Need Here
+description:
+  de: "Kurzer Rückblick für kurze Alltagsdialoge: kurze Durchsagen verstehen und W-Fragen sicher stellen."
+  en: "Quick recap for everyday dialogues: understanding short announcements and asking W-questions."
+recap:
+  - daf/durchsagen-verstehen-a1
+  - daf/w-fragen
+blocks:
+  - type: section
+    id: rueckblick
+    title:
+      de: Kurz aufgefrischt
+      en: Quick Refresher
+    blocks:
+      - type: text
+        text:
+          de: |
+            Für die Alltagsdialoge in diesem Kapitel greift Sam auf zwei Bausteine aus der Ankunft in Lindenberg zurück:
+            - **Kurze Durchsagen verstehen** (*Understanding short announcements*): Ich kann wichtige Angaben wie Uhrzeiten, Preise und Gleisnummern aus kurzen Durchsagen und Mailbox-Nachrichten heraushören.
+            - **W-Fragen** (*W-questions*): Ich kann W-Fragen mit *wer, was, wo, woher, wohin, wann* und *wie* stellen und beantworten (*Wann öffnet die Apotheke? Wie teuer ist der Tee?*).
+          en: |
+            For the everyday dialogues in this chapter, Sam draws on two building blocks from his arrival in Lindenberg:
+            - **Understanding short announcements**: I can pick out key details like times, prices, and platform numbers from short announcements and voicemails.
+            - **W-questions**: I can ask and answer W-questions using *wer, was, wo, woher, wohin, wann*, and *wie* (*Wann öffnet die Apotheke? Wie teuer ist der Tee?*).
+      - type: single-choice
+        id: kap2-vorwissen-check
+        text:
+          de: "Sam möchte wissen, zu welcher Uhrzeit die Bäckerei am Samstag öffnet. Welche W-Frage stellt er?"
+          en: "Sam wants to know what time the bakery opens on Saturday. Which W-question does he ask?"
+        options:
+          - text:
+              de: "Wann öffnet die Bäckerei am Samstag?"
+              en: "Wann öffnet die Bäckerei am Samstag?"
+            correct: true
+            info:
+              de: "Richtig! Nach einer Uhrzeit oder einem Zeitpunkt fragt man mit 'Wann'."
+              en: "Correct! You ask about a time or point in time using 'Wann'."
+          - text:
+              de: "Woher öffnet die Bäckerei am Samstag?"
+              en: "Woher öffnet die Bäckerei am Samstag?"
+            correct: false
+            info:
+              de: "'Woher' fragt nach der Herkunft (Where from?), nicht nach der Uhrzeit."
+              en: "'Woher' asks about origin (Where from?), not time."
+          - text:
+              de: "Wer öffnet die Bäckerei am Samstag?"
+              en: "Wer öffnet die Bäckerei am Samstag?"
+            correct: false
+            info:
+              de: "'Wer' fragt nach einer Person (Who?), nicht nach der Öffnungszeit."
+              en: "'Wer' asks about a person (Who?), not opening hours."
+        explanation:
+          de: "In W-Fragen steht das Fragewort auf Position 1 und das konjugierte Verb auf Position 2: Wann öffnet …?"
+          en: "In W-questions, the question word sits in position 1 and the conjugated verb in position 2: Wann öffnet …?"

@@ -1,0 +1,104 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Feiertage und Bräuche
+  en: Public Holidays and Traditions
+description:
+  de: "Wichtige gesetzliche Feiertage und jahreszeitliche Bräuche im deutschsprachigen Raum benennen."
+  en: "Name major public holidays and seasonal traditions in German-speaking countries."
+competencies: [feiertage-braeuche-a1]
+blocks:
+  - type: section
+    id: kalender
+    title:
+      de: Webers Jahreskalender
+      en: The Webers' Holiday Calendar
+    blocks:
+      - type: text
+        text:
+          de: "In der Küche der Webers hängt ein großer Jahreskalender. An gesetzlichen **Feiertagen** sind Schulen und fast alle Geschäfte in Deutschland geschlossen. Sam markiert die wichtigsten Feste und typischen Grüße."
+          en: "A large yearly calendar hangs in the Webers' kitchen. On public holidays (**Feiertage**), schools and almost all shops in Germany are closed. Sam marks the major holidays and their greetings."
+      - type: table
+        caption:
+          de: "Wichtige Feiertage und Traditionen in Deutschland"
+          en: "Major public holidays and traditions in Germany"
+        header:
+          - { de: Feiertag & Zeit, en: Holiday & Time }
+          - { de: Bräuche & Gruß, en: Traditions & Greeting }
+        rows:
+          - - { de: "Neujahr (1. Januar)", en: "New Year's Day (Jan 1)" }
+            - {
+                de: "Nach Silvester (31.12., Feuerwerk um Mitternacht) wünscht man: „Frohes neues Jahr!“",
+                en: "After Silvester (Dec 31, midnight fireworks), people say: „Frohes neues Jahr!“",
+              }
+          - - { de: "Ostern (Frühling)", en: "Easter (spring)" }
+            - {
+                de: "Bunte Ostereier bemalen und suchen, Osterhase. Gruß: „Frohe Ostern!“",
+                en: "Painting and hunting colored Easter eggs, Easter bunny. Greeting: „Frohe Ostern!“",
+              }
+          - - { de: "Tag der Deutschen Einheit (3. Oktober)", en: "German Unity Day (Oct 3)" }
+            - {
+                de: "Nationalfeiertag in Deutschland (Wiedervereinigung 1990); Geschäfte geschlossen.",
+                en: "Germany's national day (reunification in 1990); shops are closed.",
+              }
+          - - { de: "Weihnachten (24.–26. Dezember)", en: "Christmas (Dec 24–26)" }
+            - {
+                de: "Adventskalender, Weihnachtsmarkt, Bescherung an Heiligabend (24.12.). Gruß: „Frohe Weihnachten!“",
+                en: "Advent calendar, Christmas market, gifts on Christmas Eve (Dec 24). Greeting: „Frohe Weihnachten!“",
+              }
+      - type: note
+        title:
+          de: "Wichtig: Heiligabend und Feiertage"
+          en: "Good to Know: Heiligabend and Public Holidays"
+        blocks:
+          - type: text
+            text:
+              de: "In Deutschland öffnen Familien die Weihnachtsgeschenke schon am Abend des **24. Dezember** (*Heiligabend*). Der 25. und 26. Dezember sind der 1. und 2. Weihnachtsfeiertag. Vor Silvester wünscht man einander **„Guten Rutsch!“** (*Have a good slide into the new year!*)."
+              en: "In Germany, families open Christmas presents on the evening of **December 24** (*Heiligabend*). December 25 and 26 are official public holidays. Before New Year's Eve, people wish each other **„Guten Rutsch!“** (*Have a good slide into the new year!*)."
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: matching
+        id: feiertage-gruesse
+        text:
+          de: "Welcher Gruß oder Brauch gehört zu welchem Anlass?"
+          en: "Which greeting or tradition belongs to which occasion?"
+        pairs:
+          - left:
+              de: Heiligabend (24.12.)
+              en: Heiligabend (Dec 24)
+            right:
+              de: "Geschenke am Abend, „Frohe Weihnachten!“"
+              en: "Gifts in the evening, „Frohe Weihnachten!“"
+          - left:
+              de: Silvester (31.12.)
+              en: Silvester (Dec 31)
+            right:
+              de: "Feuerwerk um Mitternacht, vorher „Guten Rutsch!“"
+              en: "Midnight fireworks, beforehand „Guten Rutsch!“"
+          - left:
+              de: Ostern (Frühling)
+              en: Ostern (spring)
+            right:
+              de: "Ostereier suchen, „Frohe Ostern!“"
+              en: "Easter egg hunt, „Frohe Ostern!“"
+          - left:
+              de: Tag der Deutschen Einheit (3.10.)
+              en: German Unity Day (Oct 3)
+            right:
+              de: Nationalfeiertag in Deutschland
+              en: National public holiday in Germany
+        explanation:
+          de: "Heiligabend (24.12.), Silvester (31.12.), Ostern im Frühling und der 3. Oktober prägen das Kalenderjahr in Deutschland."
+          en: "Heiligabend (Dec 24), Silvester (Dec 31), Easter in spring, and October 3 shape the public holiday calendar in Germany."
+      - type: true-false
+        id: feiertage-geschaefte
+        text:
+          de: "Richtig oder falsch: Am 3. Oktober und am 25. Dezember sind normale Supermärkte in Deutschland in der Regel geschlossen."
+          en: "True or false: On October 3 and December 25, regular supermarkets in Germany are generally closed."
+        answer: true
+        explanation:
+          de: "Richtig! Beide Tage sind gesetzliche Feiertage in ganz Deutschland – man kauft also am Tag vorher ein."
+          en: "True! Both are nationwide public holidays in Germany, so people do their grocery shopping the day before."

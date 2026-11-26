@@ -1,0 +1,111 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title:
+  de: Tagesablauf und Freizeit
+  en: Daily Routine and Hobbies
+description:
+  de: "Den eigenen Tagesablauf, Hobbys und liebste Freizeitaktivitäten auf Deutsch beschreiben."
+  en: "Describe your daily routine, hobbies, and favorite free-time activities in German."
+competencies: [tagesablauf-freizeit]
+blocks:
+  - type: section
+    id: tagesplan
+    title:
+      de: Sams Tagesleiste in Lindenberg
+      en: Sam's Daily Timeline in Lindenberg
+    blocks:
+      - type: text
+        text:
+          de: "Auf der **Tagesleiste** seiner Tafel trägt Sam einen typischen Schultag bei Webers ein. Viele deutsche Verben für den Tagesablauf sind **trennbar**: Die Vorsilbe wandert ans Satzende (*Ich **stehe** um 6:45 Uhr **auf***)."
+          en: "On the **daily timeline** of his board, Sam maps out a typical school day at the Webers'. Many German daily-routine verbs are **separable**: the prefix moves to the end of the sentence (*Ich **stehe** um 6:45 Uhr **auf***)."
+      - type: table
+        caption:
+          de: "Ein typischer Dienstag bei Familie Weber"
+          en: "A typical Tuesday at the Webers'"
+        header:
+          - { de: Uhrzeit, en: Time }
+          - { de: Auf Deutsch, en: In German }
+          - { de: Bedeutung, en: Meaning }
+        rows:
+          - - { de: "06:45", en: "06:45" }
+            - { de: "Ich stehe auf und dusche.", en: "Ich stehe auf und dusche." }
+            - { de: "I get up and shower.", en: "I get up and shower." }
+          - - { de: "07:15", en: "07:15" }
+            - { de: "Wir frühstücken zusammen.", en: "Wir frühstücken zusammen." }
+            - { de: "We have breakfast together.", en: "We have breakfast together." }
+          - - { de: "07:40", en: "07:40" }
+            - { de: "Ich fahre mit dem Fahrrad zur Schule.", en: "Ich fahre mit dem Fahrrad zur Schule." }
+            - { de: "I ride my bike to school.", en: "I ride my bike to school." }
+          - - { de: "15:00", en: "15:00" }
+            - { de: "Ich mache Hausaufgaben.", en: "Ich mache Hausaufgaben." }
+            - { de: "I do homework.", en: "I do homework." }
+          - - { de: "17:00", en: "17:00" }
+            - { de: "Mina spielt Fußball, ich höre Musik.", en: "Mina spielt Fußball, ich höre Musik." }
+            - { de: "Mina plays soccer, I listen to music.", en: "Mina plays soccer, I listen to music." }
+          - - { de: "22:00", en: "22:00" }
+            - { de: "Ich gehe ins Bett.", en: "Ich gehe ins Bett." }
+            - { de: "I go to bed.", en: "I go to bed." }
+      - type: vocabulary
+        caption:
+          de: "Wichtige Verben für Alltag und Hobbys"
+          en: "Key verbs for daily routine and hobbies"
+        languages: { source: en, target: de }
+        entries:
+          - target: aufstehen
+            source: to get up
+            example: { target: "Lukas steht um sieben Uhr auf.", source: "Lukas gets up at seven o'clock." }
+          - target: frühstücken
+            source: to have breakfast
+          - target: Fahrrad fahren
+            source: to ride a bicycle
+          - target: einkaufen
+            source: to go shopping
+          - target: fernsehen
+            source: to watch TV
+            example: { target: "Abends sehen wir manchmal fern.", source: "In the evening we sometimes watch TV." }
+          - target: Musik hören / lesen / schwimmen
+            source: to listen to music / to read / to swim
+  - type: section
+    id: uebung
+    title:
+      de: Übungen
+      en: Practice
+    blocks:
+      - type: ordering
+        id: tagesablauf-reihenfolge
+        text:
+          de: "Bringe Sams Dienstag in die richtige zeitliche Reihenfolge (von morgens bis abends)."
+          en: "Put Sam's Tuesday in the right chronological order (from morning to evening)."
+        items:
+          - de: "Um 6:45 Uhr stehe ich auf."
+            en: "Um 6:45 Uhr stehe ich auf."
+          - de: "Um 7:15 Uhr frühstücke ich mit Familie Weber."
+            en: "Um 7:15 Uhr frühstücke ich mit Familie Weber."
+          - de: "Am Nachmittag mache ich Hausaufgaben und treffe Nadia."
+            en: "Am Nachmittag mache ich Hausaufgaben und treffe Nadia."
+          - de: "Um 22:00 Uhr gehe ich ins Bett."
+            en: "Um 22:00 Uhr gehe ich ins Bett."
+        explanation:
+          de: "Ein typischer Tag beginnt mit dem Aufstehen und Frühstücken, geht weiter mit Nachmittagsaktivitäten und endet abends mit dem Schlafengehen."
+          en: "A typical day starts with getting up and having breakfast, continues with afternoon activities, and ends with going to bed at night."
+      - type: language-task
+        id: trennbare-verben-alltag
+        languages: { source: en, target: de }
+        mode: gap
+        task:
+          de: "Ergänze die fehlende Vorsilbe oder das Hobby-Wort."
+          en: "Fill in the missing separable prefix or hobby word."
+        items:
+          - source: "I get up at seven o'clock."
+            target: "Ich stehe um sieben Uhr [auf]."
+          - source: "In the evening, Herr Weber watches TV."
+            target: "Abends sieht Herr Weber [fern]."
+          - source: "Sam rides his bicycle to school."
+            target: "Sam fährt mit dem [Fahrrad] zur Schule."
+          - source: "In my free time I like listening to music."
+            target: "In meiner Freizeit höre ich gern [Musik]."
+        hint:
+          de: "Bei 'aufstehen' und 'fernsehen' steht die Vorsilbe am Ende des Hauptsatzes."
+          en: "With 'aufstehen' and 'fernsehen', the prefix goes to the end of the main clause."
+        explanation:
+          de: "Trennbare Verben teilen sich im Präsens: konjugierter Stamm auf Position 2, Vorsilbe ganz am Ende."
+          en: "Separable verbs split in the present tense: conjugated stem in position 2, prefix at the very end."
