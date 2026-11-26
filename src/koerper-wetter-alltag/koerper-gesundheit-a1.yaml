@@ -10,13 +10,13 @@ blocks:
   - type: section
     id: gesundheitscheck
     title:
-      de: Sam hat eine Erkältung
-      en: Sam Catches a Cold
+      de: Peter hat eine Erkältung
+      en: Peter Catches a Cold
     blocks:
       - type: text
         text:
-          de: "Im Herbst erwischt Sam in Lindenberg eine Erkältung. Auf dem **Gesundheitscheck** seiner Tafel notiert er die wichtigsten Körperteile und zwei Muster, um Schmerzen zu nennen: **Mein Kopf tut weh** (Singular) / **Meine Ohren tun weh** (Plural) oder **Ich habe Kopfschmerzen**."
-          en: "In autumn, Sam catches a cold in Lindenberg. On the **health check** of his board, he writes down key body parts and two patterns to say something hurts: **Mein Kopf tut weh** (singular) / **Meine Ohren tun weh** (plural), or **Ich habe Kopfschmerzen** (I have a headache)."
+          de: "Im Herbst erwischt Peter in Lindenberg eine Erkältung. Auf dem **Gesundheitscheck** seiner Tafel notiert er die wichtigsten Körperteile und zwei Muster, um Schmerzen zu nennen: **Mein Kopf tut weh** (Singular) / **Meine Ohren tun weh** (Plural) oder **Ich habe Kopfschmerzen**."
+          en: "In autumn, Peter catches a cold in Lindenberg. On the **health check** of his board, he writes down key body parts and two patterns to say something hurts: **Mein Kopf tut weh** (singular) / **Meine Ohren tun weh** (plural), or **Ich habe Kopfschmerzen** (I have a headache)."
       - type: vocabulary
         caption:
           de: "Körperteile und Schmerzen"
@@ -91,8 +91,8 @@ blocks:
         languages: { source: en, target: de }
         mode: choice
         task:
-          de: "Wähle das passende Wort für Sams Gespräch mit Frau Weber."
-          en: "Choose the right word for Sam's conversation with Frau Weber."
+          de: "Wähle das passende Wort für Peters Gespräch mit Frau Weber."
+          en: "Choose the right word for Peter's conversation with Frau Weber."
         items:
           - source: "My head hurts."
             target: "Mein Kopf [tut] weh."

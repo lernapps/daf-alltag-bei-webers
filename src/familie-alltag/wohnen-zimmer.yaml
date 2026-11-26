@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Nächster Bereich auf Sams **Haus-und-Alltags-Tafel**: der Grundriss des Hauses in Lindenberg. Unten liegen **das Wohnzimmer**, **die Küche** und **der Flur**. Oben hat Sam sein eigenes **Zimmer** neben **dem Bad**."
-          en: "Next section on Sam's **Home-and-Daily-Life Board**: the floor plan of the house in Lindenberg. Downstairs are **das Wohnzimmer** (living room), **die Küche** (kitchen), and **der Flur** (hallway). Upstairs, Sam has his own room next to **das Bad** (bathroom)."
+          de: "Nächster Bereich auf Peters **Haus-und-Alltags-Tafel**: der Grundriss des Hauses in Lindenberg. Unten liegen **das Wohnzimmer**, **die Küche** und **der Flur**. Oben hat Peter sein eigenes **Zimmer** neben **dem Bad**."
+          en: "Next section on Peter's **Home-and-Daily-Life Board**: the floor plan of the house in Lindenberg. Downstairs are **das Wohnzimmer** (living room), **die Küche** (kitchen), and **der Flur** (hallway). Upstairs, Peter has his own room next to **das Bad** (bathroom)."
       - type: vocabulary
         caption:
           de: "Zimmer und Möbel im Haus"
@@ -74,8 +74,8 @@ blocks:
       - type: single-choice
         id: zimmer-artikel
         text:
-          de: "Welcher Satz beschreibt Sams Zimmer grammatisch und inhaltlich richtig?"
-          en: "Which sentence describes Sam's room accurately in German?"
+          de: "Welcher Satz beschreibt Peters Zimmer grammatisch und inhaltlich richtig?"
+          en: "Which sentence describes Peter's room accurately in German?"
         options:
           - text:
               de: "In meinem Zimmer stehen ein Bett, ein Schreibtisch und ein Regal."
@@ -106,14 +106,14 @@ blocks:
         languages: { source: en, target: de }
         mode: choice
         task:
-          de: "Wähle das passende deutsche Wort für Sams Grundriss."
-          en: "Choose the right German word for Sam's floor plan."
+          de: "Wähle das passende deutsche Wort für Peters Grundriss."
+          en: "Choose the right German word for Peter's floor plan."
         items:
           - source: "We cook in the kitchen."
             target: "Wir kochen in der [Küche]."
             distractors: [["Lampe", "Wohnung"]]
-          - source: "Sam studies at the desk."
-            target: "Sam lernt am [Schreibtisch]."
+          - source: "Peter studies at the desk."
+            target: "Peter lernt am [Schreibtisch]."
             distractors: [["Sofa", "Bett"]]
           - source: "The clothes are in the wardrobe."
             target: "Die Kleidung ist im [Schrank]."

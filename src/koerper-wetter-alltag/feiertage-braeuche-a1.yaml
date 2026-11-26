@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "In der Küche der Webers hängt ein großer Jahreskalender. An gesetzlichen **Feiertagen** sind Schulen und fast alle Geschäfte in Deutschland geschlossen. Sam markiert die wichtigsten Feste und typischen Grüße."
-          en: "A large yearly calendar hangs in the Webers' kitchen. On public holidays (**Feiertage**), schools and almost all shops in Germany are closed. Sam marks the major holidays and their greetings."
+          de: "In der Küche der Webers hängt ein großer Jahreskalender. An gesetzlichen **Feiertagen** sind Schulen und fast alle Geschäfte in Deutschland geschlossen. Peter markiert die wichtigsten Feste und typischen Grüße."
+          en: "A large yearly calendar hangs in the Webers' kitchen. On public holidays (**Feiertage**), schools and almost all shops in Germany are closed. Peter marks the major holidays and their greetings."
       - type: table
         caption:
           de: "Wichtige Feiertage und Traditionen in Deutschland"

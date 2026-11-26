@@ -16,16 +16,16 @@ blocks:
       - type: text
         text:
           de: |
-            Bevor Sam am Ende dieses Kapitels eine längere private E-Mail nach Hause schreibt, prüfe kurz dieses Vorwissen:
-            - **Kurze Nachrichten schreiben** (*Writing short messages*): Ich kann kurze Nachrichten, Postkarten oder einfache E-Mails schreiben, um jemanden einzuladen oder nach einfachen Informationen zu fragen (*Hallo Nadia, hast du am Samstag um 15 Uhr Zeit? Liebe Grüße, Sam*).
+            Bevor Peter am Ende dieses Kapitels eine längere private E-Mail nach Hause schreibt, prüfe kurz dieses Vorwissen:
+            - **Kurze Nachrichten schreiben** (*Writing short messages*): Ich kann kurze Nachrichten, Postkarten oder einfache E-Mails schreiben, um jemanden einzuladen oder nach einfachen Informationen zu fragen (*Hallo Nadia, hast du am Samstag um 15 Uhr Zeit? Liebe Grüße, Peter*).
           en: |
-            Before Sam writes a longer personal email home at the end of this chapter, do a quick mental check on this prerequisite:
-            - **Writing short messages**: I can write short messages, postcards, or simple emails to invite someone or ask for basic information (*Hallo Nadia, hast du am Samstag um 15 Uhr Zeit? Liebe Grüße, Sam*).
+            Before Peter writes a longer personal email home at the end of this chapter, do a quick mental check on this prerequisite:
+            - **Writing short messages**: I can write short messages, postcards, or simple emails to invite someone or ask for basic information (*Hallo Nadia, hast du am Samstag um 15 Uhr Zeit? Liebe Grüße, Peter*).
       - type: true-false
         id: kap3-vorwissen-check
         text:
-          de: "Richtig oder falsch: Eine kurze informelle Nachricht an eine Freundin kann mit „Hallo Nadia,“ beginnen und mit „Liebe Grüße, Sam“ enden."
-          en: "True or false: A short informal message to a friend can start with „Hallo Nadia,“ and end with „Liebe Grüße, Sam“."
+          de: "Richtig oder falsch: Eine kurze informelle Nachricht an eine Freundin kann mit „Hallo Nadia,“ beginnen und mit „Liebe Grüße, Peter“ enden."
+          en: "True or false: A short informal message to a friend can start with „Hallo Nadia,“ and end with „Liebe Grüße, Peter“."
         answer: true
         explanation:
           de: "Richtig! Für Freunde und Familie passen 'Hallo …,' oder 'Liebe/Lieber …,' am Anfang und 'Liebe Grüße' am Ende."

@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Am ersten Abend in Lindenberg zeichnet Sam den Stammbaum seiner Gastfamilie auf seine **Haus-und-Alltags-Tafel**: Katrin und Thomas Weber sind **verheiratet**. Sie sind die **Eltern** von Lukas (15) und Mina (12). In der Schule hat Sam schon eine neue **Freundin** gefunden – Nadia."
-          en: "On his first evening in Lindenberg, Sam draws his host family's tree on his **Home-and-Daily-Life Board**: Katrin and Thomas Weber are **verheiratet** (married). They are the **Eltern** (parents) of Lukas (15) and Mina (12). At school, Sam has already made a new friend — Nadia."
+          de: "Am ersten Abend in Lindenberg zeichnet Peter den Stammbaum seiner Gastfamilie auf seine **Haus-und-Alltags-Tafel**: Katrin und Thomas Weber sind **verheiratet**. Sie sind die **Eltern** von Lukas (15) und Mina (12). In der Schule hat Peter schon eine neue **Freundin** gefunden – Nadia."
+          en: "On his first evening in Lindenberg, Peter draws his host family's tree on his **Home-and-Daily-Life Board**: Katrin and Thomas Weber are **verheiratet** (married). They are the **Eltern** (parents) of Lukas (15) and Mina (12). At school, Peter has already made a new friend — Nadia."
       - type: vocabulary
         caption:
           de: Familie, Freunde und Familienstand
@@ -98,8 +98,8 @@ blocks:
         languages: { source: en, target: de }
         mode: gap
         task:
-          de: "Ergänze Sams Notizen über Familie Weber auf Deutsch."
-          en: "Complete Sam's notes about the Weber family in German."
+          de: "Ergänze Peters Notizen über Familie Weber auf Deutsch."
+          en: "Complete Peter's notes about the Weber family in German."
         items:
           - source: "Katrin is Mina's mother."
             target: "Katrin ist Minas [Mutter]."

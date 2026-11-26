@@ -10,13 +10,13 @@ blocks:
   - type: section
     id: lebensstil
     title:
-      de: Sams und Minas Gesundheits-Bilanz
-      en: Sam and Mina's Health Check-In
+      de: Peters und Minas Gesundheits-Bilanz
+      en: Peter and Mina's Health Check-In
     blocks:
       - type: text
         text:
-          de: "Im Frühling vergleichen Sam und Mina ihre Gewohnheiten auf dem **Gesundheitscheck** der Tafel: Mina trainiert dreimal pro Woche im **Sportverein** und achtet auf **ausgewogene Ernährung**; Sam merkt vor Klassenarbeiten, wie sehr **Stress** und Schlafmangel die Konzentration drücken."
-          en: "In spring, Sam and Mina compare habits on the **health check** of the board: Mina trains three times a week at the local **sports club** (*Sportverein*) and pays attention to **balanced nutrition** (*ausgewogene Ernährung*); before exams, Sam notices how much **stress** and lack of sleep affect concentration."
+          de: "Im Frühling vergleichen Peter und Mina ihre Gewohnheiten auf dem **Gesundheitscheck** der Tafel: Mina trainiert dreimal pro Woche im **Sportverein** und achtet auf **ausgewogene Ernährung**; Peter merkt vor Klassenarbeiten, wie sehr **Stress** und Schlafmangel die Konzentration drücken."
+          en: "In spring, Peter and Mina compare habits on the **health check** of the board: Mina trains three times a week at the local **sports club** (*Sportverein*) and pays attention to **balanced nutrition** (*ausgewogene Ernährung*); before exams, Peter notices how much **stress** and lack of sleep affect concentration."
       - type: vocabulary
         caption:
           de: "Wortschatz für Ernährung, Fitness und Stress (B1)"
@@ -82,8 +82,8 @@ blocks:
       - type: single-choice
         id: b1-ratschlag-waehlen
         text:
-          de: "Sam klagt vor einer schweren Mathearbeit: „Ich lerne bis Mitternacht, trinke drei Energy-Drinks und kann nicht schlafen.“ Welcher B1-Ratschlag von Mina passt sprachlich und inhaltlich am besten?"
-          en: "Before a tough math exam, Sam complains: „Ich lerne bis Mitternacht, trinke drei Energy-Drinks und kann nicht schlafen.“ Which B1 advice from Mina fits best?"
+          de: "Peter klagt vor einer schweren Mathearbeit: „Ich lerne bis Mitternacht, trinke drei Energy-Drinks und kann nicht schlafen.“ Welcher B1-Ratschlag von Mina passt sprachlich und inhaltlich am besten?"
+          en: "Before a tough math exam, Peter complains: „Ich lerne bis Mitternacht, trinke drei Energy-Drinks und kann nicht schlafen.“ Which B1 advice from Mina fits best?"
         options:
           - text:
               de: "An deiner Stelle würde ich abends auf Energy-Drinks verzichten und früher schlafen gehen, weil Schlafmangel die Konzentration verschlechtert."
@@ -97,8 +97,8 @@ blocks:
               en: "Ich habe Kopfschmerzen und mein Bein tut weh."
             correct: false
             info:
-              de: "Das beschreibt eigene A1-Symptome, gibt aber keinen Ratschlag zu Sams Stressproblem."
-              en: "That describes personal A1 symptoms rather than giving advice on Sam's stress."
+              de: "Das beschreibt eigene A1-Symptome, gibt aber keinen Ratschlag zu Peters Stressproblem."
+              en: "That describes personal A1 symptoms rather than giving advice on Peter's stress."
           - text:
               de: "Trink noch mehr Energy-Drinks, deshalb wirst du sofort entspannt."
               en: "Trink noch mehr Energy-Drinks, deshalb wirst du sofort entspannt."
@@ -114,8 +114,8 @@ blocks:
         languages: { source: en, target: de }
         mode: gap
         task:
-          de: "Ergänze Sams B1-Reflexion über gesunden Alltag in Lindenberg."
-          en: "Complete Sam's B1 reflection on healthy everyday life in Lindenberg."
+          de: "Ergänze Peters B1-Reflexion über gesunden Alltag in Lindenberg."
+          en: "Complete Peter's B1 reflection on healthy everyday life in Lindenberg."
         items:
           - source: "I try to cut down on too much sugar."
             target: "Ich versuche, auf zu viel Zucker zu [verzichten]."

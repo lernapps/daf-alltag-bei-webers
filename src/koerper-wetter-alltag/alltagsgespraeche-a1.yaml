@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "In Lindenberg meistert Sam kurze Gespräche in der Bäckerei, im Café oder auf der Straße fast immer nach demselben Muster: **1. Begrüßen**, **2. Wunsch oder Frage äußern**, **3. Bezahlen und verabschieden**."
-          en: "In Lindenberg, Sam handles short conversations at the bakery, café, or on the street using the same three-step pattern: **1. Greet**, **2. State your request or question**, **3. Pay and say goodbye**."
+          de: "In Lindenberg meistert Peter kurze Gespräche in der Bäckerei, im Café oder auf der Straße fast immer nach demselben Muster: **1. Begrüßen**, **2. Wunsch oder Frage äußern**, **3. Bezahlen und verabschieden**."
+          en: "In Lindenberg, Peter handles short conversations at the bakery, café, or on the street using the same three-step pattern: **1. Greet**, **2. State your request or question**, **3. Pay and say goodbye**."
       - type: example
         title:
           de: "Mini-Dialog im Café Lindenberg"
@@ -26,18 +26,18 @@ blocks:
             text:
               de: |
                 - **Bedienung:** Guten Tag! Was möchten Sie gern?
-                - **Sam:** Guten Tag! Ich hätte gern einen Apfelsaft und ein Stück Käsekuchen, bitte.
+                - **Peter:** Guten Tag! Ich hätte gern einen Apfelsaft und ein Stück Käsekuchen, bitte.
                 - **Bedienung:** Gern! Sonst noch etwas?
-                - **Sam:** Nein, danke. Was kostet das zusammen?
+                - **Peter:** Nein, danke. Was kostet das zusammen?
                 - **Bedienung:** Das macht 6,80 €.
-                - **Sam:** Hier sind 7,50 €, stimmt so. Vielen Dank und auf Wiedersehen!
+                - **Peter:** Hier sind 7,50 €, stimmt so. Vielen Dank und auf Wiedersehen!
               en: |
                 - **Server:** Guten Tag! Was möchten Sie gern? (*Good day! What would you like?*)
-                - **Sam:** Guten Tag! Ich hätte gern einen Apfelsaft und ein Stück Käsekuchen, bitte. (*I would like an apple juice and a slice of cheesecake, please.*)
+                - **Peter:** Guten Tag! Ich hätte gern einen Apfelsaft und ein Stück Käsekuchen, bitte. (*I would like an apple juice and a slice of cheesecake, please.*)
                 - **Server:** Gern! Sonst noch etwas? (*Gladly! Anything else?*)
-                - **Sam:** Nein, danke. Was kostet das zusammen? (*No, thank you. How much is that together?*)
+                - **Peter:** Nein, danke. Was kostet das zusammen? (*No, thank you. How much is that together?*)
                 - **Server:** Das macht 6,80 €. (*That comes to €6.80.*)
-                - **Sam:** Hier sind 7,50 €, stimmt so. Vielen Dank und auf Wiedersehen! (*Here is €7.50, keep the change. Thank you and goodbye!*)
+                - **Peter:** Hier sind 7,50 €, stimmt so. Vielen Dank und auf Wiedersehen! (*Here is €7.50, keep the change. Thank you and goodbye!*)
       - type: note
         title:
           de: "Wenn du etwas nicht verstehst"
@@ -59,24 +59,24 @@ blocks:
           de: "Bringe dieses kurze Gespräch in der Bäckerei in die richtige Reihenfolge."
           en: "Put this short bakery dialogue in the right order."
         items:
-          - de: "Sam: Guten Morgen! Ich hätte gern zwei Brötchen, bitte."
-            en: "Sam: Guten Morgen! Ich hätte gern zwei Brötchen, bitte."
+          - de: "Peter: Guten Morgen! Ich hätte gern zwei Brötchen, bitte."
+            en: "Peter: Guten Morgen! Ich hätte gern zwei Brötchen, bitte."
           - de: "Verkäuferin: Gern! Sonst noch etwas?"
             en: "Verkäuferin: Gern! Sonst noch etwas?"
-          - de: "Sam: Nein, danke, das ist alles. Was kostet das?"
-            en: "Sam: Nein, danke, das ist alles. Was kostet das?"
+          - de: "Peter: Nein, danke, das ist alles. Was kostet das?"
+            en: "Peter: Nein, danke, das ist alles. Was kostet das?"
           - de: "Verkäuferin: Das macht 1,20 €, bitte."
             en: "Verkäuferin: Das macht 1,20 €, bitte."
-          - de: "Sam: Hier, bitte schön. Danke und tschüss!"
-            en: "Sam: Hier, bitte schön. Danke und tschüss!"
+          - de: "Peter: Hier, bitte schön. Danke und tschüss!"
+            en: "Peter: Hier, bitte schön. Danke und tschüss!"
         explanation:
           de: "Ein Alltagsdialog folgt dem festen Ablauf: Gruß und Wunsch → Rückfrage → Abschluss und Preisfrage → Betrag → Bezahlen und Abschied."
           en: "An everyday dialogue follows a clear flow: greeting and request → follow-up question → closing and price question → total → payment and goodbye."
       - type: single-choice
         id: nachfragen-dialog
         text:
-          de: "Die Apothekerin spricht sehr schnell und Sam versteht den Preis nicht. Was sagt er am besten?"
-          en: "The pharmacist speaks very quickly and Sam misses the price. What is the best thing to say?"
+          de: "Die Apothekerin spricht sehr schnell und Peter versteht den Preis nicht. Was sagt er am besten?"
+          en: "The pharmacist speaks very quickly and Peter misses the price. What is the best thing to say?"
         options:
           - text:
               de: "Entschuldigung, können Sie das bitte noch einmal langsamer sagen?"

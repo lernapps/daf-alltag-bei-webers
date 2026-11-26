@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Sams Erkältung wird schlimmer: Er hat **Husten**, **Schnupfen** und leichtes **Fieber**. Frau Weber ruft in der **Arztpraxis** an und macht einen **Termin**. Sam nimmt seine **Versichertenkarte** mit – danach holt er in der **Apotheke** Medikamente auf **Rezept**."
-          en: "Sam's cold gets worse: he has a **Husten** (cough), **Schnupfen** (runny nose), and a slight **Fieber** (fever). Frau Weber calls the **Arztpraxis** (doctor's office) to book a **Termin** (appointment). Sam brings his **Versichertenkarte** (health insurance card), then picks up his medication with a **Rezept** (prescription) at the **Apotheke** (pharmacy)."
+          de: "Peters Erkältung wird schlimmer: Er hat **Husten**, **Schnupfen** und leichtes **Fieber**. Frau Weber ruft in der **Arztpraxis** an und macht einen **Termin**. Peter nimmt seine **Versichertenkarte** mit – danach holt er in der **Apotheke** Medikamente auf **Rezept**."
+          en: "Peter's cold gets worse: he has a **Husten** (cough), **Schnupfen** (runny nose), and a slight **Fieber** (fever). Frau Weber calls the **Arztpraxis** (doctor's office) to book a **Termin** (appointment). Peter brings his **Versichertenkarte** (health insurance card), then picks up his medication with a **Rezept** (prescription) at the **Apotheke** (pharmacy)."
       - type: vocabulary
         caption:
           de: "Symptome, Arztbesuch und Apotheke"
@@ -104,8 +104,8 @@ blocks:
       - type: single-choice
         id: dosierung-verstehen
         text:
-          de: "Auf Sams Medikament steht: „Zweimal täglich eine Tablette vor dem Essen.“ Was soll Sam tun?"
-          en: "Sam's medication label says: „Zweimal täglich eine Tablette vor dem Essen.“ What should Sam do?"
+          de: "Auf Peters Medikament steht: „Zweimal täglich eine Tablette vor dem Essen.“ Was soll Peter tun?"
+          en: "Peter's medication label says: „Zweimal täglich eine Tablette vor dem Essen.“ What should Peter do?"
         options:
           - text:
               de: "Er nimmt zweimal am Tag jeweils eine Tablette, bevor er isst."

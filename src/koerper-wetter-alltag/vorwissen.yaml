@@ -18,18 +18,18 @@ blocks:
       - type: text
         text:
           de: |
-            Für die Alltagsdialoge in diesem Kapitel greift Sam auf zwei Bausteine aus der Ankunft in Lindenberg zurück:
+            Für die Alltagsdialoge in diesem Kapitel greift Peter auf zwei Bausteine aus der Ankunft in Lindenberg zurück:
             - **Kurze Durchsagen verstehen** (*Understanding short announcements*): Ich kann wichtige Angaben wie Uhrzeiten, Preise und Gleisnummern aus kurzen Durchsagen und Mailbox-Nachrichten heraushören.
             - **W-Fragen** (*W-questions*): Ich kann W-Fragen mit *wer, was, wo, woher, wohin, wann* und *wie* stellen und beantworten (*Wann öffnet die Apotheke? Wie teuer ist der Tee?*).
           en: |
-            For the everyday dialogues in this chapter, Sam draws on two building blocks from his arrival in Lindenberg:
+            For the everyday dialogues in this chapter, Peter draws on two building blocks from his arrival in Lindenberg:
             - **Understanding short announcements**: I can pick out key details like times, prices, and platform numbers from short announcements and voicemails.
             - **W-questions**: I can ask and answer W-questions using *wer, was, wo, woher, wohin, wann*, and *wie* (*Wann öffnet die Apotheke? Wie teuer ist der Tee?*).
       - type: single-choice
         id: kap2-vorwissen-check
         text:
-          de: "Sam möchte wissen, zu welcher Uhrzeit die Bäckerei am Samstag öffnet. Welche W-Frage stellt er?"
-          en: "Sam wants to know what time the bakery opens on Saturday. Which W-question does he ask?"
+          de: "Peter möchte wissen, zu welcher Uhrzeit die Bäckerei am Samstag öffnet. Welche W-Frage stellt er?"
+          en: "Peter wants to know what time the bakery opens on Saturday. Which W-question does he ask?"
         options:
           - text:
               de: "Wann öffnet die Bäckerei am Samstag?"

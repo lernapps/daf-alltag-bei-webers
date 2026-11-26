@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Der Winter in Lindenberg wird kälter, also geht Sam mit Lukas einkaufen und ergänzt den **Kleiderschrank** auf seiner Tafel. Beim Anprobieren helfen drei A2-Sätze: **Welche Größe haben Sie?**, **Die Jacke passt gut** (*fits*) und **Blau steht dir!** (*suits you!*)."
-          en: "Winter in Lindenberg is getting colder, so Sam goes shopping with Lukas and updates the **wardrobe closet** on his board. Three A2 phrases help when trying things on: **Welche Größe haben Sie?** (*What size do you wear?*), **Die Jacke passt gut** (*fits*), and **Blau steht dir!** (*suits you!*)."
+          de: "Der Winter in Lindenberg wird kälter, also geht Peter mit Lukas einkaufen und ergänzt den **Kleiderschrank** auf seiner Tafel. Beim Anprobieren helfen drei A2-Sätze: **Welche Größe haben Sie?**, **Die Jacke passt gut** (*fits*) und **Blau steht dir!** (*suits you!*)."
+          en: "Winter in Lindenberg is getting colder, so Peter goes shopping with Lukas and updates the **wardrobe closet** on his board. Three A2 phrases help when trying things on: **Welche Größe haben Sie?** (*What size do you wear?*), **Die Jacke passt gut** (*fits*), and **Blau steht dir!** (*suits you!*)."
       - type: vocabulary
         caption:
           de: "Kleidung, Aussehen und Charakter"
@@ -60,8 +60,8 @@ blocks:
       - type: single-choice
         id: passen-oder-stehen
         text:
-          de: "Sam probiert eine warme blaue Jacke an. Die Größe M ist genau richtig, nicht zu eng und nicht zu weit. Was sagt Lukas?"
-          en: "Sam tries on a warm blue jacket. Size M is just right, neither too tight nor too loose. What does Lukas say?"
+          de: "Peter probiert eine warme blaue Jacke an. Die Größe M ist genau richtig, nicht zu eng und nicht zu weit. Was sagt Lukas?"
+          en: "Peter tries on a warm blue jacket. Size M is just right, neither too tight nor too loose. What does Lukas say?"
         options:
           - text:
               de: "Die Jacke passt dir super!"
@@ -92,11 +92,11 @@ blocks:
         languages: { source: en, target: de }
         mode: gap
         task:
-          de: "Ergänze Sams Beschreibung von seinem Winter-Outfit und von Nadia."
-          en: "Complete Sam's description of his winter outfit and of Nadia."
+          de: "Ergänze Peters Beschreibung von seinem Winter-Outfit und von Nadia."
+          en: "Complete Peter's description of his winter outfit and of Nadia."
         items:
-          - source: "In winter Sam wears a warm jacket."
-            target: "Im Winter trägt Sam eine warme [Jacke]."
+          - source: "In winter Peter wears a warm jacket."
+            target: "Im Winter trägt Peter eine warme [Jacke]."
           - source: "Do you have the sweater in size M?"
             target: "Haben Sie den Pullover in [Größe] M?"
           - source: "Nadia wears glasses and is very helpful."

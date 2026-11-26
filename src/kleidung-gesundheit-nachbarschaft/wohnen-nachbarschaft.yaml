@@ -15,8 +15,8 @@ blocks:
     blocks:
       - type: text
         text:
-          de: "Sam lernt schnell drei typische Regeln für das Zusammenleben in Deutschland kennen: **Ruhezeiten** (Nachtruhe ab 22 Uhr und ganztägige Sonntagsruhe – kein Rasenmähen, kein Bohren!), **Stoßlüften** (Fenster kurz ganz öffnen statt dauerhaft kippen) und **Mülltrennung**."
-          en: "Sam quickly learns three typical rules of everyday housing in Germany: **Ruhezeiten** (quiet hours from 10 p.m. and all day Sunday — no lawnmowing or drilling!), **Stoßlüften** (opening windows wide briefly rather than leaving them tilted), and **Mülltrennung** (waste separation)."
+          de: "Peter lernt schnell drei typische Regeln für das Zusammenleben in Deutschland kennen: **Ruhezeiten** (Nachtruhe ab 22 Uhr und ganztägige Sonntagsruhe – kein Rasenmähen, kein Bohren!), **Stoßlüften** (Fenster kurz ganz öffnen statt dauerhaft kippen) und **Mülltrennung**."
+          en: "Peter quickly learns three typical rules of everyday housing in Germany: **Ruhezeiten** (quiet hours from 10 p.m. and all day Sunday — no lawnmowing or drilling!), **Stoßlüften** (opening windows wide briefly rather than leaving them tilted), and **Mülltrennung** (waste separation)."
       - type: table
         caption:
           de: "Mülltrennung in Lindenberg (typisch für Deutschland)"
@@ -65,8 +65,8 @@ blocks:
       - type: matching
         id: muelltrennung-zuordnen
         text:
-          de: "Sam räumt die Küche auf. Welcher Abfall gehört in welche Tonne?"
-          en: "Sam cleans up the kitchen. Which waste goes into which bin?"
+          de: "Peter räumt die Küche auf. Welcher Abfall gehört in welche Tonne?"
+          en: "Peter cleans up the kitchen. Which waste goes into which bin?"
         pairs:
           - left:
               de: ein leerer Joghurtbecher aus Plastik

@@ -10,17 +10,17 @@ blocks:
   - type: section
     id: aufbau-email
     title:
-      de: Sams erste längere E-Mail nach Hause
-      en: Sam's First Longer Email Home
+      de: Peters erste längere E-Mail nach Hause
+      en: Peter's First Longer Email Home
     blocks:
       - type: text
         text:
-          de: "Am Sonntagabend schreibt Sam eine längere E-Mail an seinen Freund Ben. Eine gute **private E-Mail** auf A2 hat fünf klare Bausteine: **Betreff**, **Anrede**, **Einleitung**, **Hauptteil** (Neuigkeiten, Pläne oder Einladung) und **Grußformel**."
-          en: "On Sunday evening, Sam writes a longer email to his friend Ben. A clear A2 **informal email** has five parts: **subject line** (*Betreff*), **greeting** (*Anrede*), **opening**, **body** (news, plans, or invitation), and **closing** (*Grußformel*)."
+          de: "Am Sonntagabend schreibt Peter eine längere E-Mail an seinen Freund Ben. Eine gute **private E-Mail** auf A2 hat fünf klare Bausteine: **Betreff**, **Anrede**, **Einleitung**, **Hauptteil** (Neuigkeiten, Pläne oder Einladung) und **Grußformel**."
+          en: "On Sunday evening, Peter writes a longer email to his friend Ben. A clear A2 **informal email** has five parts: **subject line** (*Betreff*), **greeting** (*Anrede*), **opening**, **body** (news, plans, or invitation), and **closing** (*Grußformel*)."
       - type: example
         title:
-          de: "Muster-E-Mail von Sam"
-          en: "Sample Email from Sam"
+          de: "Muster-E-Mail von Peter"
+          en: "Sample Email from Peter"
         blocks:
           - type: text
             text:
@@ -36,7 +36,7 @@ blocks:
                 Schreib mir bald!
 
                 **Liebe Grüße**
-                **Sam**
+                **Peter**
               en: |
                 **Betreff:** Grüße aus Lindenberg! (*Greetings from Lindenberg!*)
 
@@ -49,7 +49,7 @@ blocks:
                 Schreib mir bald! (*Write back soon!*)
 
                 **Liebe Grüße** (*Warm regards*)
-                **Sam**
+                **Peter**
       - type: note
         title:
           de: "Achtung nach der Anrede!"
@@ -79,8 +79,8 @@ blocks:
             en: "Am Samstag kochen wir bei Webers zusammen. Hast du Lust zu kommen?"
           - de: "Sag mir bis Donnerstag Bescheid!"
             en: "Sag mir bis Donnerstag Bescheid!"
-          - de: "Viele Grüße, Sam"
-            en: "Viele Grüße, Sam"
+          - de: "Viele Grüße, Peter"
+            en: "Viele Grüße, Peter"
         explanation:
           de: "Auf die Anrede folgen die persönliche Einleitung, dann der eigentliche Grund (Einladung/Neuigkeit), ein Abschlusssatz und die Grußformel."
           en: "The greeting is followed by a personal opening, then the main news or invitation, a closing line, and the sign-off."

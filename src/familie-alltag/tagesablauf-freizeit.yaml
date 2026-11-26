@@ -10,13 +10,13 @@ blocks:
   - type: section
     id: tagesplan
     title:
-      de: Sams Tagesleiste in Lindenberg
-      en: Sam's Daily Timeline in Lindenberg
+      de: Peters Tagesleiste in Lindenberg
+      en: Peter's Daily Timeline in Lindenberg
     blocks:
       - type: text
         text:
-          de: "Auf der **Tagesleiste** seiner Tafel trägt Sam einen typischen Schultag bei Webers ein. Viele deutsche Verben für den Tagesablauf sind **trennbar**: Die Vorsilbe wandert ans Satzende (*Ich **stehe** um 6:45 Uhr **auf***)."
-          en: "On the **daily timeline** of his board, Sam maps out a typical school day at the Webers'. Many German daily-routine verbs are **separable**: the prefix moves to the end of the sentence (*Ich **stehe** um 6:45 Uhr **auf***)."
+          de: "Auf der **Tagesleiste** seiner Tafel trägt Peter einen typischen Schultag bei Webers ein. Viele deutsche Verben für den Tagesablauf sind **trennbar**: Die Vorsilbe wandert ans Satzende (*Ich **stehe** um 6:45 Uhr **auf***)."
+          en: "On the **daily timeline** of his board, Peter maps out a typical school day at the Webers'. Many German daily-routine verbs are **separable**: the prefix moves to the end of the sentence (*Ich **stehe** um 6:45 Uhr **auf***)."
       - type: table
         caption:
           de: "Ein typischer Dienstag bei Familie Weber"
@@ -73,8 +73,8 @@ blocks:
       - type: ordering
         id: tagesablauf-reihenfolge
         text:
-          de: "Bringe Sams Dienstag in die richtige zeitliche Reihenfolge (von morgens bis abends)."
-          en: "Put Sam's Tuesday in the right chronological order (from morning to evening)."
+          de: "Bringe Peters Dienstag in die richtige zeitliche Reihenfolge (von morgens bis abends)."
+          en: "Put Peter's Tuesday in the right chronological order (from morning to evening)."
         items:
           - de: "Um 6:45 Uhr stehe ich auf."
             en: "Um 6:45 Uhr stehe ich auf."
@@ -99,8 +99,8 @@ blocks:
             target: "Ich stehe um sieben Uhr [auf]."
           - source: "In the evening, Herr Weber watches TV."
             target: "Abends sieht Herr Weber [fern]."
-          - source: "Sam rides his bicycle to school."
-            target: "Sam fährt mit dem [Fahrrad] zur Schule."
+          - source: "Peter rides his bicycle to school."
+            target: "Peter fährt mit dem [Fahrrad] zur Schule."
           - source: "In my free time I like listening to music."
             target: "In meiner Freizeit höre ich gern [Musik]."
         hint:
