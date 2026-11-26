@@ -43,7 +43,7 @@ Name family members, friends, and basic marital and relationship words in German
 
 ### The Webers' Family Tree on the Board
 
-On his first evening in Lindenberg, Sam draws his host family's tree on his **Home-and-Daily-Life Board**: Katrin and Thomas Weber are **verheiratet** (married). They are the **Eltern** (parents) of Lukas (15) and Mina (12). At school, Sam has already made a new friend — Nadia.
+On his first evening in Lindenberg, Peter draws his host family's tree on his **Home-and-Daily-Life Board**: Katrin and Thomas Weber are **verheiratet** (married). They are the **Eltern** (parents) of Lukas (15) and Mina (12). At school, Peter has already made a new friend — Nadia.
 
 Vocabulary (German – English): Family, friends, and relationship words
 - die Eltern – parents (plural). Example: Katrin und Thomas sind die Eltern. – Katrin and Thomas are the parents.
@@ -72,7 +72,7 @@ Vocabulary (German – English): Family, friends, and relationship words
 
 ### Exercise familie-schreiben
 
-- Task: Complete Sam's notes about the Weber family in German.
+- Task: Complete Peter's notes about the Weber family in German.
 - Answer format: fill in the gaps in German
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):

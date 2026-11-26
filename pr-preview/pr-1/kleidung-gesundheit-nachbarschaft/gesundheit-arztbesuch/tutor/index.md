@@ -43,7 +43,7 @@ Symptome beschreiben, einfache Ratschläge in der Arztpraxis oder Apotheke verst
 
 ### Bei der Hausärztin und in der Apotheke
 
-Sams Erkältung wird schlimmer: Er hat **Husten**, **Schnupfen** und leichtes **Fieber**. Frau Weber ruft in der **Arztpraxis** an und macht einen **Termin**. Sam nimmt seine **Versichertenkarte** mit – danach holt er in der **Apotheke** Medikamente auf **Rezept**.
+Peters Erkältung wird schlimmer: Er hat **Husten**, **Schnupfen** und leichtes **Fieber**. Frau Weber ruft in der **Arztpraxis** an und macht einen **Termin**. Peter nimmt seine **Versichertenkarte** mit – danach holt er in der **Apotheke** Medikamente auf **Rezept**.
 
 Vokabeln (Deutsch – Englisch): Symptome, Arztbesuch und Apotheke
 - der Termin – appointment. Beispiel: Ich brauche bitte einen Termin bei Frau Dr. Klein. – I need an appointment with Dr. Klein, please.
@@ -77,7 +77,7 @@ Vokabeln (Deutsch – Englisch): Symptome, Arztbesuch und Apotheke
 
 ### Aufgabe dosierung-verstehen
 
-- Aufgabe: Auf Sams Medikament steht: „Zweimal täglich eine Tablette vor dem Essen.“ Was soll Sam tun?
+- Aufgabe: Auf Peters Medikament steht: „Zweimal täglich eine Tablette vor dem Essen.“ Was soll Peter tun?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Er nimmt zweimal am Tag jeweils eine Tablette, bevor er isst. – Genau: 'zweimal täglich' = twice a day, 'vor dem Essen' = before meals.

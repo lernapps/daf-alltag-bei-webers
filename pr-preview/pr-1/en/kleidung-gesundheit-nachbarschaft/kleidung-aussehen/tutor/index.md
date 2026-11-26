@@ -43,7 +43,7 @@ Describe clothes, sizes, physical appearance, and basic personality traits in Ge
 
 ### Inside the Weather-and-Wardrobe Closet
 
-Winter in Lindenberg is getting colder, so Sam goes shopping with Lukas and updates the **wardrobe closet** on his board. Three A2 phrases help when trying things on: **Welche Größe haben Sie?** (*What size do you wear?*), **Die Jacke passt gut** (*fits*), and **Blau steht dir!** (*suits you!*).
+Winter in Lindenberg is getting colder, so Peter goes shopping with Lukas and updates the **wardrobe closet** on his board. Three A2 phrases help when trying things on: **Welche Größe haben Sie?** (*What size do you wear?*), **Die Jacke passt gut** (*fits*), and **Blau steht dir!** (*suits you!*).
 
 Vocabulary (German – English): Clothing, appearance, and personality
 - die Jacke / der Mantel, \"die Jacken / die Mäntel\" – jacket / coat
@@ -64,7 +64,7 @@ Vocabulary (German – English): Clothing, appearance, and personality
 
 ### Exercise passen-oder-stehen
 
-- Task: Sam tries on a warm blue jacket. Size M is just right, neither too tight nor too loose. What does Lukas say?
+- Task: Peter tries on a warm blue jacket. Size M is just right, neither too tight nor too loose. What does Lukas say?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Die Jacke passt dir super! – Correct! For the right size/fit, German uses 'passen'.
@@ -76,11 +76,11 @@ Vocabulary (German – English): Clothing, appearance, and personality
 
 ### Exercise kleidung-beschreibung
 
-- Task: Complete Sam's description of his winter outfit and of Nadia.
+- Task: Complete Peter's description of his winter outfit and of Nadia.
 - Answer format: fill in the gaps in German
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
-1. In winter Sam wears a warm jacket. → Im Winter trägt Sam eine warme Jacke.
+1. In winter Peter wears a warm jacket. → Im Winter trägt Peter eine warme Jacke.
 2. Do you have the sweater in size M? → Haben Sie den Pullover in Größe M?
 3. Nadia wears glasses and is very helpful. → Nadia trägt eine Brille und ist sehr hilfsbereit.
 - The app's hint: Capitalize nouns (Jacke, Größe, Brille) and keep the adjective 'hilfsbereit' lowercase.

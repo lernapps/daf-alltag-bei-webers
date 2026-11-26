@@ -43,7 +43,7 @@ Zimmer, Möbel und wichtige Haushaltsgegenstände nennen, um eine Wohnung oder e
 
 ### Der Grundriss der Webers
 
-Nächster Bereich auf Sams **Haus-und-Alltags-Tafel**: der Grundriss des Hauses in Lindenberg. Unten liegen **das Wohnzimmer**, **die Küche** und **der Flur**. Oben hat Sam sein eigenes **Zimmer** neben **dem Bad**.
+Nächster Bereich auf Peters **Haus-und-Alltags-Tafel**: der Grundriss des Hauses in Lindenberg. Unten liegen **das Wohnzimmer**, **die Küche** und **der Flur**. Oben hat Peter sein eigenes **Zimmer** neben **dem Bad**.
 
 Vokabeln (Deutsch – Englisch): Zimmer und Möbel im Haus
 - die Wohnung / das Haus – apartment / house
@@ -71,7 +71,7 @@ Bei zusammengesetzten Wörtern bestimmt immer der **letzte Teil** den Artikel: *
 
 ### Aufgabe zimmer-artikel
 
-- Aufgabe: Welcher Satz beschreibt Sams Zimmer grammatisch und inhaltlich richtig?
+- Aufgabe: Welcher Satz beschreibt Peters Zimmer grammatisch und inhaltlich richtig?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ In meinem Zimmer stehen ein Bett, ein Schreibtisch und ein Regal. – Richtig! Alle drei Gegenstände sind typische Zimmermöbel mit den passenden unbestimmten Artikeln.
@@ -83,12 +83,12 @@ Bei zusammengesetzten Wörtern bestimmt immer der **letzte Teil** den Artikel: *
 
 ### Aufgabe moebel-luecken
 
-- Aufgabe: Wähle das passende deutsche Wort für Sams Grundriss.
+- Aufgabe: Wähle das passende deutsche Wort für Peters Grundriss.
 - Antwortformat: für jede Lücke ein Wort wählen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):
 1. We cook in the kitchen. → Wir kochen in der Küche.
-2. Sam studies at the desk. → Sam lernt am Schreibtisch.
+2. Peter studies at the desk. → Peter lernt am Schreibtisch.
 3. The clothes are in the wardrobe. → Die Kleidung ist im Schrank.
 4. The books are on the shelf. → Die Bücher stehen im Regal.
 - Erklärung: Küche (kitchen), Schreibtisch (desk), Schrank (wardrobe) und Regal (shelf) gehören zum Grundwortschatz fürs Wohnen.

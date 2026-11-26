@@ -43,7 +43,7 @@ Alltagsregeln rund ums Wohnen in Deutschland erklären: Hausordnung, Ruhezeiten,
 
 ### Hausordnung und Mülltrennung bei Webers
 
-Sam lernt schnell drei typische Regeln für das Zusammenleben in Deutschland kennen: **Ruhezeiten** (Nachtruhe ab 22 Uhr und ganztägige Sonntagsruhe – kein Rasenmähen, kein Bohren!), **Stoßlüften** (Fenster kurz ganz öffnen statt dauerhaft kippen) und **Mülltrennung**.
+Peter lernt schnell drei typische Regeln für das Zusammenleben in Deutschland kennen: **Ruhezeiten** (Nachtruhe ab 22 Uhr und ganztägige Sonntagsruhe – kein Rasenmähen, kein Bohren!), **Stoßlüften** (Fenster kurz ganz öffnen statt dauerhaft kippen) und **Mülltrennung**.
 
 Mülltrennung in Lindenberg (typisch für Deutschland):
 - Tonne / Container | Was gehört hinein?
@@ -65,7 +65,7 @@ In Mietshäusern hängt die **Hausordnung** oft im Treppenhaus: Sie regelt Ruhez
 
 ### Aufgabe muelltrennung-zuordnen
 
-- Aufgabe: Sam räumt die Küche auf. Welcher Abfall gehört in welche Tonne?
+- Aufgabe: Peter räumt die Küche auf. Welcher Abfall gehört in welche Tonne?
 - Antwortformat: jedem Eintrag links den passenden rechts zuordnen
 - Lösung: ein leerer Joghurtbecher aus Plastik – Gelbe Tonne; ein Karton und alte Zeitungen – Blaue Tonne (Altpapier); Apfelschalen und Kaffeesatz – Biotonne; benutzte Papiertaschentücher – Restmülltonne
 - Erklärung: Verpackungen → Gelbe Tonne, sauberes Papier → Blaue Tonne, Küchenabfälle → Biotonne, schmutziges Papier/Rest → Restmüll.

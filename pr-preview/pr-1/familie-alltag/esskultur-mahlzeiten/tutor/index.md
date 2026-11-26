@@ -43,7 +43,7 @@ Typische Essenszeiten, Bäckereien, Cafés sowie Trinkgeld- und Bezahlgewohnheit
 
 ### Frühstück, Mittagessen und Abendbrot
 
-Sam staunt an seinem ersten Sonntag bei Familie Weber: Die warme Hauptmahlzeit gibt es oft **mittags**, während man abends häufig kaltes **Abendbrot** isst – Brot oder Brötchen mit Käse, Wurst und Rohkost. Nachmittags laden Webers manchmal zu **Kaffee und Kuchen** ein.
+Peter staunt an seinem ersten Sonntag bei Familie Weber: Die warme Hauptmahlzeit gibt es oft **mittags**, während man abends häufig kaltes **Abendbrot** isst – Brot oder Brötchen mit Käse, Wurst und Rohkost. Nachmittags laden Webers manchmal zu **Kaffee und Kuchen** ein.
 
 Typische Mahlzeiten und Bräuche in Deutschland:
 - Anlass | Typisch in Deutschland
@@ -64,7 +64,7 @@ Die Bedienung fragt oft: **„Zusammen oder getrennt?“** (*Together or separat
 
 ### Aufgabe trinkgeld-verhalten
 
-- Aufgabe: Sam und Herr Weber essen in einem Café in Lindenberg. Die Rechnung beträgt 13,50 €. Sam möchte 15 € inklusive Trinkgeld zahlen. Was sagt er zur Bedienung?
+- Aufgabe: Peter und Herr Weber essen in einem Café in Lindenberg. Die Rechnung beträgt 13,50 €. Peter möchte 15 € inklusive Trinkgeld zahlen. Was sagt er zur Bedienung?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ „Fünfzehn Euro, bitte.“ (und gibt den Schein direkt beim Bezahlen) – Genau so macht man es in Deutschland: den neuen Gesamtbetrag direkt beim Bezahlen nennen.

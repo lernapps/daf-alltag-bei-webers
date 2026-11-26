@@ -43,16 +43,16 @@ Manage short everyday dialogues such as ordering food, shopping, and asking simp
 
 ### Three Steps for Any Short Dialogue
 
-In Lindenberg, Sam handles short conversations at the bakery, café, or on the street using the same three-step pattern: **1. Greet**, **2. State your request or question**, **3. Pay and say goodbye**.
+In Lindenberg, Peter handles short conversations at the bakery, café, or on the street using the same three-step pattern: **1. Greet**, **2. State your request or question**, **3. Pay and say goodbye**.
 
 **Example: Mini-Dialogue at Café Lindenberg**
 
 - **Server:** Guten Tag! Was möchten Sie gern? (*Good day! What would you like?*)
-- **Sam:** Guten Tag! Ich hätte gern einen Apfelsaft und ein Stück Käsekuchen, bitte. (*I would like an apple juice and a slice of cheesecake, please.*)
+- **Peter:** Guten Tag! Ich hätte gern einen Apfelsaft und ein Stück Käsekuchen, bitte. (*I would like an apple juice and a slice of cheesecake, please.*)
 - **Server:** Gern! Sonst noch etwas? (*Gladly! Anything else?*)
-- **Sam:** Nein, danke. Was kostet das zusammen? (*No, thank you. How much is that together?*)
+- **Peter:** Nein, danke. Was kostet das zusammen? (*No, thank you. How much is that together?*)
 - **Server:** Das macht 6,80 €. (*That comes to €6.80.*)
-- **Sam:** Hier sind 7,50 €, stimmt so. Vielen Dank und auf Wiedersehen! (*Here is €7.50, keep the change. Thank you and goodbye!*)
+- **Peter:** Hier sind 7,50 €, stimmt so. Vielen Dank und auf Wiedersehen! (*Here is €7.50, keep the change. Thank you and goodbye!*)
 
 **Remember: When You Do Not Understand**
 
@@ -68,13 +68,13 @@ Two sentences save any A1 dialogue: **„Entschuldigung, können Sie das bitte w
 
 - Task: Put this short bakery dialogue in the right order.
 - Answer format: put the items in the right order (the app shows them shuffled)
-- Solution: 1. Sam: Guten Morgen! Ich hätte gern zwei Brötchen, bitte., 2. Verkäuferin: Gern! Sonst noch etwas?, 3. Sam: Nein, danke, das ist alles. Was kostet das?, 4. Verkäuferin: Das macht 1,20 €, bitte., 5. Sam: Hier, bitte schön. Danke und tschüss!
+- Solution: 1. Peter: Guten Morgen! Ich hätte gern zwei Brötchen, bitte., 2. Verkäuferin: Gern! Sonst noch etwas?, 3. Peter: Nein, danke, das ist alles. Was kostet das?, 4. Verkäuferin: Das macht 1,20 €, bitte., 5. Peter: Hier, bitte schön. Danke und tschüss!
 - Explanation: An everyday dialogue follows a clear flow: greeting and request → follow-up question → closing and price question → total → payment and goodbye.
 - Link: [../?via=tutor#dialog-reihenfolge](../?via=tutor#dialog-reihenfolge)
 
 ### Exercise nachfragen-dialog
 
-- Task: The pharmacist speaks very quickly and Sam misses the price. What is the best thing to say?
+- Task: The pharmacist speaks very quickly and Peter misses the price. What is the best thing to say?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Entschuldigung, können Sie das bitte noch einmal langsamer sagen? – Polite, clear, and effective: you ask for a slower repetition.

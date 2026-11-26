@@ -45,8 +45,8 @@ Quick recap before starting with the Webers: greetings, numbers and prices, time
 
 ### Quick Refresher
 
-Before Sam opens his **Home-and-Daily-Life Board** at the Webers' house in Lindenberg, do a quick mental check on these four prerequisites:
-- **Greetings and introductions**: I can greet people, say goodbye, and give basic personal details like my name, age, and country (*Hallo, ich bin Sam. Ich komme aus den USA.*).
+Before Peter opens his **Home-and-Daily-Life Board** at the Webers' house in Lindenberg, do a quick mental check on these four prerequisites:
+- **Greetings and introductions**: I can greet people, say goodbye, and give basic personal details like my name, age, and country (*Hallo, ich bin Peter. Ich komme aus den USA.*).
 - **Numbers and prices**: I can understand and say numbers, prices in euros and cents, and phone numbers (*3,50 € — drei Euro fünfzig*).
 - **Time, days, months, and dates**: I can tell the time (formal and informal) and name days of the week, months, and dates (*Am Montag um halb acht*).
 - **Everyday politeness in D-A-CH**: I can use typical greeting, thanking, and apologizing conventions in German-speaking everyday life (*Guten Morgen! Danke schön! Entschuldigung!*).
@@ -55,7 +55,7 @@ Before Sam opens his **Home-and-Daily-Life Board** at the Webers' house in Linde
 
 ### Exercise kap1-vorwissen-check
 
-- Task: Sam buys bread at the bakery in the morning. The price is €2.40 and the time is 7:30. Which response fits time, price, and politeness?
+- Task: Peter buys bread at the bakery in the morning. The price is €2.40 and the time is 7:30. Which response fits time, price, and politeness?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Guten Morgen! Zwei Euro vierzig, bitte schön. Es ist halb acht. – Exactly: Guten Morgen in the morning, €2.40 = zwei Euro vierzig, 7:30 = halb acht.

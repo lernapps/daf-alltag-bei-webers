@@ -43,7 +43,7 @@ Farben, die vier Jahreszeiten und grundlegende Wetterbedingungen auf Deutsch ben
 
 ### Der Wetter-und-Kleiderschrank auf der Tafel
 
-Jeden Morgen schaut Sam vor dem Radfahren auf den **Wetterbereich** seiner Tafel. Die vier **Jahreszeiten** sind alle maskulin (*der Frühling, der Sommer, der Herbst, der Winter*) – mit *im*: **im Winter**, **im Sommer**.
+Jeden Morgen schaut Peter vor dem Radfahren auf den **Wetterbereich** seiner Tafel. Die vier **Jahreszeiten** sind alle maskulin (*der Frühling, der Sommer, der Herbst, der Winter*) – mit *im*: **im Winter**, **im Sommer**.
 
 Vokabeln (Deutsch – Englisch): Jahreszeiten, Wetter und Farben
 - der Frühling / der Sommer – spring / summer
@@ -71,7 +71,7 @@ Vokabeln (Deutsch – Englisch): Jahreszeiten, Wetter und Farben
 
 ### Aufgabe wetter-saetze
 
-- Aufgabe: Ergänze Sams Wetterbericht für Lindenberg.
+- Aufgabe: Ergänze Peters Wetterbericht für Lindenberg.
 - Antwortformat: die Lücken auf Deutsch füllen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):

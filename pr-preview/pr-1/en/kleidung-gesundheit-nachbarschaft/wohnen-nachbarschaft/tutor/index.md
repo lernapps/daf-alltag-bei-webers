@@ -43,7 +43,7 @@ Explain everyday housing norms in Germany such as Hausordnung, quiet hours, vent
 
 ### House Rules and Waste Separation at the Webers'
 
-Sam quickly learns three typical rules of everyday housing in Germany: **Ruhezeiten** (quiet hours from 10 p.m. and all day Sunday — no lawnmowing or drilling!), **Stoßlüften** (opening windows wide briefly rather than leaving them tilted), and **Mülltrennung** (waste separation).
+Peter quickly learns three typical rules of everyday housing in Germany: **Ruhezeiten** (quiet hours from 10 p.m. and all day Sunday — no lawnmowing or drilling!), **Stoßlüften** (opening windows wide briefly rather than leaving them tilted), and **Mülltrennung** (waste separation).
 
 Waste separation in Lindenberg (typical across Germany):
 - Bin / Container | What goes in?
@@ -65,7 +65,7 @@ In apartment buildings, the **Hausordnung** (house rules) often hangs in the sta
 
 ### Exercise muelltrennung-zuordnen
 
-- Task: Sam cleans up the kitchen. Which waste goes into which bin?
+- Task: Peter cleans up the kitchen. Which waste goes into which bin?
 - Answer format: match each item on the left with one on the right
 - Solution: an empty plastic yogurt cup – Yellow bin (Gelbe Tonne); a cardboard box and old newspapers – Blue bin (Altpapier); apple peels and coffee grounds – Organic bin (Biotonne); used paper tissues – Residual waste bin (Restmüll)
 - Explanation: Packaging → Gelbe Tonne, clean paper → Blaue Tonne, food scraps → Biotonne, soiled tissues/other → Restmüll.

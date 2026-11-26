@@ -43,7 +43,7 @@ Name major public holidays and seasonal traditions in German-speaking countries.
 
 ### The Webers' Holiday Calendar
 
-A large yearly calendar hangs in the Webers' kitchen. On public holidays (**Feiertage**), schools and almost all shops in Germany are closed. Sam marks the major holidays and their greetings.
+A large yearly calendar hangs in the Webers' kitchen. On public holidays (**Feiertage**), schools and almost all shops in Germany are closed. Peter marks the major holidays and their greetings.
 
 Major public holidays and traditions in Germany:
 - Holiday & Time | Traditions & Greeting

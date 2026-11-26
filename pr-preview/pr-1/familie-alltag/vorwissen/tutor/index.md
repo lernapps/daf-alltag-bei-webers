@@ -45,8 +45,8 @@ Kurzer Rückblick vor dem Start bei Familie Weber: Begrüßung, Zahlen und Preis
 
 ### Kurz aufgefrischt
 
-Bevor Sam seine **Haus-und-Alltags-Tafel** bei Familie Weber in Lindenberg ausklappt, prüfe kurz im Kopf, ob diese vier Grundlagen sitzen:
-- **Begrüßung und Vorstellung** (*Greetings and introductions*): Ich kann Menschen begrüßen, mich verabschieden und Name, Alter und Land nennen (*Hallo, ich bin Sam. Ich komme aus den USA.*).
+Bevor Peter seine **Haus-und-Alltags-Tafel** bei Familie Weber in Lindenberg ausklappt, prüfe kurz im Kopf, ob diese vier Grundlagen sitzen:
+- **Begrüßung und Vorstellung** (*Greetings and introductions*): Ich kann Menschen begrüßen, mich verabschieden und Name, Alter und Land nennen (*Hallo, ich bin Peter. Ich komme aus den USA.*).
 - **Zahlen und Preise** (*Numbers and prices*): Ich kann Zahlen, Preise in Euro und Cent sowie Telefonnummern verstehen und sagen (*3,50 € – drei Euro fünfzig*).
 - **Uhrzeit, Wochentage, Monate und Datum** (*Time, days, months, and dates*): Ich kann die Uhrzeit angeben sowie Wochentage, Monate und Daten nennen (*Am Montag um halb acht*).
 - **Höflichkeit im Alltag** (*Everyday politeness in D-A-CH*): Ich kann typische Gruß-, Dank- und Entschuldigungsformeln nutzen (*Guten Morgen! Danke schön! Entschuldigung!*).
@@ -55,7 +55,7 @@ Bevor Sam seine **Haus-und-Alltags-Tafel** bei Familie Weber in Lindenberg auskl
 
 ### Aufgabe kap1-vorwissen-check
 
-- Aufgabe: Sam kauft morgens beim Bäcker ein. Der Preis ist 2,40 €, es ist 7:30 Uhr. Welche Antwort passt zu Uhrzeit, Preis und Höflichkeit?
+- Aufgabe: Peter kauft morgens beim Bäcker ein. Der Preis ist 2,40 €, es ist 7:30 Uhr. Welche Antwort passt zu Uhrzeit, Preis und Höflichkeit?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Guten Morgen! Zwei Euro vierzig, bitte schön. Es ist halb acht. – Genau: Guten Morgen am Vormittag, 2,40 € = zwei Euro vierzig, 7:30 Uhr = halb acht.

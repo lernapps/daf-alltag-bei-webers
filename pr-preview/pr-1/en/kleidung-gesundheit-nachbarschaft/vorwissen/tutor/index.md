@@ -45,14 +45,14 @@ Quick recap before writing personal emails: writing short messages and invitatio
 
 ### Quick Refresher
 
-Before Sam writes a longer personal email home at the end of this chapter, do a quick mental check on this prerequisite:
-- **Writing short messages**: I can write short messages, postcards, or simple emails to invite someone or ask for basic information (*Hallo Nadia, hast du am Samstag um 15 Uhr Zeit? Liebe Grüße, Sam*).
+Before Peter writes a longer personal email home at the end of this chapter, do a quick mental check on this prerequisite:
+- **Writing short messages**: I can write short messages, postcards, or simple emails to invite someone or ask for basic information (*Hallo Nadia, hast du am Samstag um 15 Uhr Zeit? Liebe Grüße, Peter*).
 
 - Exercise `kap3-vorwissen-check` (below)
 
 ### Exercise kap3-vorwissen-check
 
-- Task: True or false: A short informal message to a friend can start with „Hallo Nadia,“ and end with „Liebe Grüße, Sam“.
+- Task: True or false: A short informal message to a friend can start with „Hallo Nadia,“ and end with „Liebe Grüße, Peter“.
 - Answer format: choose “true” or “false”
 - Solution: The statement is true.
 - Explanation: True! For friends and family, 'Hallo …,' or 'Liebe/Lieber …,' at the start and 'Liebe Grüße' at the end are natural.

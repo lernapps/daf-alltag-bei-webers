@@ -45,7 +45,7 @@ Kurzer Rückblick für kurze Alltagsdialoge: kurze Durchsagen verstehen und W-Fr
 
 ### Kurz aufgefrischt
 
-Für die Alltagsdialoge in diesem Kapitel greift Sam auf zwei Bausteine aus der Ankunft in Lindenberg zurück:
+Für die Alltagsdialoge in diesem Kapitel greift Peter auf zwei Bausteine aus der Ankunft in Lindenberg zurück:
 - **Kurze Durchsagen verstehen** (*Understanding short announcements*): Ich kann wichtige Angaben wie Uhrzeiten, Preise und Gleisnummern aus kurzen Durchsagen und Mailbox-Nachrichten heraushören.
 - **W-Fragen** (*W-questions*): Ich kann W-Fragen mit *wer, was, wo, woher, wohin, wann* und *wie* stellen und beantworten (*Wann öffnet die Apotheke? Wie teuer ist der Tee?*).
 
@@ -53,7 +53,7 @@ Für die Alltagsdialoge in diesem Kapitel greift Sam auf zwei Bausteine aus der 
 
 ### Aufgabe kap2-vorwissen-check
 
-- Aufgabe: Sam möchte wissen, zu welcher Uhrzeit die Bäckerei am Samstag öffnet. Welche W-Frage stellt er?
+- Aufgabe: Peter möchte wissen, zu welcher Uhrzeit die Bäckerei am Samstag öffnet. Welche W-Frage stellt er?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Wann öffnet die Bäckerei am Samstag? – Richtig! Nach einer Uhrzeit oder einem Zeitpunkt fragt man mit 'Wann'.

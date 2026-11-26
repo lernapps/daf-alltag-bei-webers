@@ -41,11 +41,11 @@ Nennt die Adresse dieser Seite `bedarf=`, gilt jeder Abschnitt, den sie nennt, m
 
 Informelle E-Mails und persönliche Nachrichten über Pläne, Neuigkeiten und Einladungen lesen und schreiben.
 
-### Sams erste längere E-Mail nach Hause
+### Peters erste längere E-Mail nach Hause
 
-Am Sonntagabend schreibt Sam eine längere E-Mail an seinen Freund Ben. Eine gute **private E-Mail** auf A2 hat fünf klare Bausteine: **Betreff**, **Anrede**, **Einleitung**, **Hauptteil** (Neuigkeiten, Pläne oder Einladung) und **Grußformel**.
+Am Sonntagabend schreibt Peter eine längere E-Mail an seinen Freund Ben. Eine gute **private E-Mail** auf A2 hat fünf klare Bausteine: **Betreff**, **Anrede**, **Einleitung**, **Hauptteil** (Neuigkeiten, Pläne oder Einladung) und **Grußformel**.
 
-**Beispiel: Muster-E-Mail von Sam**
+**Beispiel: Muster-E-Mail von Peter**
 
 **Betreff:** Grüße aus Lindenberg!
 
@@ -58,7 +58,7 @@ Bei Familie Weber fühle ich mich richtig wohl. Am Samstag war ich mit Lukas ein
 Schreib mir bald!
 
 **Liebe Grüße**
-**Sam**
+**Peter**
 
 **Merke: Achtung nach der Anrede!**
 
@@ -74,7 +74,7 @@ Nach **Lieber Ben,** oder **Liebe Nadia,** steht im Deutschen ein **Komma**, und
 
 - Aufgabe: Bringe die Bausteine einer privaten E-Mail an Nadia in die richtige Reihenfolge.
 - Antwortformat: die Einträge in die richtige Reihenfolge bringen (die App zeigt sie gemischt)
-- Lösung: 1. Liebe Nadia,, 2. vielen Dank für deine Nachricht! Wie war dein Wochenende?, 3. Am Samstag kochen wir bei Webers zusammen. Hast du Lust zu kommen?, 4. Sag mir bis Donnerstag Bescheid!, 5. Viele Grüße, Sam
+- Lösung: 1. Liebe Nadia,, 2. vielen Dank für deine Nachricht! Wie war dein Wochenende?, 3. Am Samstag kochen wir bei Webers zusammen. Hast du Lust zu kommen?, 4. Sag mir bis Donnerstag Bescheid!, 5. Viele Grüße, Peter
 - Erklärung: Auf die Anrede folgen die persönliche Einleitung, dann der eigentliche Grund (Einladung/Neuigkeit), ein Abschlusssatz und die Grußformel.
 - Link: [../?via=tutor#email-aufbau-ordnen](../?via=tutor#email-aufbau-ordnen)
 

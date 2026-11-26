@@ -41,9 +41,9 @@ If the address of this page names `bedarf=`, each section it names holds, severa
 
 Name basic parts of the body and say in German when something hurts or you feel sick.
 
-### Sam Catches a Cold
+### Peter Catches a Cold
 
-In autumn, Sam catches a cold in Lindenberg. On the **health check** of his board, he writes down key body parts and two patterns to say something hurts: **Mein Kopf tut weh** (singular) / **Meine Ohren tun weh** (plural), or **Ich habe Kopfschmerzen** (I have a headache).
+In autumn, Peter catches a cold in Lindenberg. On the **health check** of his board, he writes down key body parts and two patterns to say something hurts: **Mein Kopf tut weh** (singular) / **Meine Ohren tun weh** (plural), or **Ich habe Kopfschmerzen** (I have a headache).
 
 Vocabulary (German – English): Body parts and aches
 - der Kopf – head. Example: Mein Kopf tut weh. – My head hurts.
@@ -72,7 +72,7 @@ Vocabulary (German – English): Body parts and aches
 
 ### Exercise schmerzen-sagen
 
-- Task: Choose the right word for Sam's conversation with Frau Weber.
+- Task: Choose the right word for Peter's conversation with Frau Weber.
 - Answer format: choose a word for each gap
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):

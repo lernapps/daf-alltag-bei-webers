@@ -45,7 +45,7 @@ Quick recap for everyday dialogues: understanding short announcements and asking
 
 ### Quick Refresher
 
-For the everyday dialogues in this chapter, Sam draws on two building blocks from his arrival in Lindenberg:
+For the everyday dialogues in this chapter, Peter draws on two building blocks from his arrival in Lindenberg:
 - **Understanding short announcements**: I can pick out key details like times, prices, and platform numbers from short announcements and voicemails.
 - **W-questions**: I can ask and answer W-questions using *wer, was, wo, woher, wohin, wann*, and *wie* (*Wann öffnet die Apotheke? Wie teuer ist der Tee?*).
 
@@ -53,7 +53,7 @@ For the everyday dialogues in this chapter, Sam draws on two building blocks fro
 
 ### Exercise kap2-vorwissen-check
 
-- Task: Sam wants to know what time the bakery opens on Saturday. Which W-question does he ask?
+- Task: Peter wants to know what time the bakery opens on Saturday. Which W-question does he ask?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ Wann öffnet die Bäckerei am Samstag? – Correct! You ask about a time or point in time using 'Wann'.

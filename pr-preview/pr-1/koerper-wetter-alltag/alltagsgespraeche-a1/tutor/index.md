@@ -43,16 +43,16 @@ Kurze Alltagsdialoge wie Essen bestellen, einkaufen und einfache Fragen stellen 
 
 ### Drei Schritte für jeden kurzen Dialog
 
-In Lindenberg meistert Sam kurze Gespräche in der Bäckerei, im Café oder auf der Straße fast immer nach demselben Muster: **1. Begrüßen**, **2. Wunsch oder Frage äußern**, **3. Bezahlen und verabschieden**.
+In Lindenberg meistert Peter kurze Gespräche in der Bäckerei, im Café oder auf der Straße fast immer nach demselben Muster: **1. Begrüßen**, **2. Wunsch oder Frage äußern**, **3. Bezahlen und verabschieden**.
 
 **Beispiel: Mini-Dialog im Café Lindenberg**
 
 - **Bedienung:** Guten Tag! Was möchten Sie gern?
-- **Sam:** Guten Tag! Ich hätte gern einen Apfelsaft und ein Stück Käsekuchen, bitte.
+- **Peter:** Guten Tag! Ich hätte gern einen Apfelsaft und ein Stück Käsekuchen, bitte.
 - **Bedienung:** Gern! Sonst noch etwas?
-- **Sam:** Nein, danke. Was kostet das zusammen?
+- **Peter:** Nein, danke. Was kostet das zusammen?
 - **Bedienung:** Das macht 6,80 €.
-- **Sam:** Hier sind 7,50 €, stimmt so. Vielen Dank und auf Wiedersehen!
+- **Peter:** Hier sind 7,50 €, stimmt so. Vielen Dank und auf Wiedersehen!
 
 **Merke: Wenn du etwas nicht verstehst**
 
@@ -68,13 +68,13 @@ Zwei Sätze retten jeden A1-Dialog: **„Entschuldigung, können Sie das bitte w
 
 - Aufgabe: Bringe dieses kurze Gespräch in der Bäckerei in die richtige Reihenfolge.
 - Antwortformat: die Einträge in die richtige Reihenfolge bringen (die App zeigt sie gemischt)
-- Lösung: 1. Sam: Guten Morgen! Ich hätte gern zwei Brötchen, bitte., 2. Verkäuferin: Gern! Sonst noch etwas?, 3. Sam: Nein, danke, das ist alles. Was kostet das?, 4. Verkäuferin: Das macht 1,20 €, bitte., 5. Sam: Hier, bitte schön. Danke und tschüss!
+- Lösung: 1. Peter: Guten Morgen! Ich hätte gern zwei Brötchen, bitte., 2. Verkäuferin: Gern! Sonst noch etwas?, 3. Peter: Nein, danke, das ist alles. Was kostet das?, 4. Verkäuferin: Das macht 1,20 €, bitte., 5. Peter: Hier, bitte schön. Danke und tschüss!
 - Erklärung: Ein Alltagsdialog folgt dem festen Ablauf: Gruß und Wunsch → Rückfrage → Abschluss und Preisfrage → Betrag → Bezahlen und Abschied.
 - Link: [../?via=tutor#dialog-reihenfolge](../?via=tutor#dialog-reihenfolge)
 
 ### Aufgabe nachfragen-dialog
 
-- Aufgabe: Die Apothekerin spricht sehr schnell und Sam versteht den Preis nicht. Was sagt er am besten?
+- Aufgabe: Die Apothekerin spricht sehr schnell und Peter versteht den Preis nicht. Was sagt er am besten?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ Entschuldigung, können Sie das bitte noch einmal langsamer sagen? – Höflich, klar und direkt zielführend: Du bittest um eine langsamere Wiederholung.

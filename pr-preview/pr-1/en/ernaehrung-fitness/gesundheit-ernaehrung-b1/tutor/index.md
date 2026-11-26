@@ -41,9 +41,9 @@ If the address of this page names `bedarf=`, each section it names holds, severa
 
 Talk about balanced nutrition, exercise, stress management, and everyday healthcare at B1 level.
 
-### Sam and Mina's Health Check-In
+### Peter and Mina's Health Check-In
 
-In spring, Sam and Mina compare habits on the **health check** of the board: Mina trains three times a week at the local **sports club** (*Sportverein*) and pays attention to **balanced nutrition** (*ausgewogene Ernährung*); before exams, Sam notices how much **stress** and lack of sleep affect concentration.
+In spring, Peter and Mina compare habits on the **health check** of the board: Mina trains three times a week at the local **sports club** (*Sportverein*) and pays attention to **balanced nutrition** (*ausgewogene Ernährung*); before exams, Peter notices how much **stress** and lack of sleep affect concentration.
 
 Vocabulary (German – English): Vocabulary for nutrition, fitness, and stress (B1)
 - die ausgewogene Ernährung – balanced nutrition. Example: Eine ausgewogene Ernährung enthält viel Gemüse und Vollkorn. – A balanced diet includes plenty of vegetables and whole grains.
@@ -67,11 +67,11 @@ Expressing arguments and advice at B1:
 
 ### Exercise b1-ratschlag-waehlen
 
-- Task: Before a tough math exam, Sam complains: „Ich lerne bis Mitternacht, trinke drei Energy-Drinks und kann nicht schlafen.“ Which B1 advice from Mina fits best?
+- Task: Before a tough math exam, Peter complains: „Ich lerne bis Mitternacht, trinke drei Energy-Drinks und kann nicht schlafen.“ Which B1 advice from Mina fits best?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ An deiner Stelle würde ich abends auf Energy-Drinks verzichten und früher schlafen gehen, weil Schlafmangel die Konzentration verschlechtert. – Strong B1! It combines Konjunktiv II ('würde'), 'verzichten auf', and a 'weil' reason clause.
-  - ✗ Ich habe Kopfschmerzen und mein Bein tut weh. – That describes personal A1 symptoms rather than giving advice on Sam's stress.
+  - ✗ Ich habe Kopfschmerzen und mein Bein tut weh. – That describes personal A1 symptoms rather than giving advice on Peter's stress.
   - ✗ Trink noch mehr Energy-Drinks, deshalb wirst du sofort entspannt. – Factually wrong: energy drinks worsen restlessness and sleep deprivation rather than helping you relax.
 - Solution: An deiner Stelle würde ich abends auf Energy-Drinks verzichten und früher schlafen gehen, weil Schlafmangel die Konzentration verschlechtert.
 - Explanation: At B1 level, you combine recommendations ('An deiner Stelle würde ich …') with clear reasons ('weil …', 'deshalb …').
@@ -79,7 +79,7 @@ Expressing arguments and advice at B1:
 
 ### Exercise b1-gesundheit-luecken
 
-- Task: Complete Sam's B1 reflection on healthy everyday life in Lindenberg.
+- Task: Complete Peter's B1 reflection on healthy everyday life in Lindenberg.
 - Answer format: fill in the gaps in German
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):

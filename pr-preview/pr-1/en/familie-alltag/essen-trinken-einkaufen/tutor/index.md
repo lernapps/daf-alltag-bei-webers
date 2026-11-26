@@ -43,7 +43,7 @@ Name everyday foods, drinks, meals, and shops and ask for items and prices.
 
 ### With Mina at the Bakery and Supermarket
 
-Saturday morning in Lindenberg: Sam and Mina fill in the **meal planner** on the Home-and-Daily-Life Board. First they pick up **Brötchen** (bread rolls) at the **Bäckerei** (bakery), then they go to the **Supermarkt** — and return empty deposit bottles (**Pfand**) at the reverse vending machine.
+Saturday morning in Lindenberg: Peter and Mina fill in the **meal planner** on the Home-and-Daily-Life Board. First they pick up **Brötchen** (bread rolls) at the **Bäckerei** (bakery), then they go to the **Supermarkt** — and return empty deposit bottles (**Pfand**) at the reverse vending machine.
 
 Vocabulary (German – English): Food, drinks, and shops
 - das Brot / das Brötchen, \"die Brote / die Brötchen\" – bread / bread roll. Example: Ich hätte gern vier Brötchen. – I would like four bread rolls.
@@ -76,7 +76,7 @@ Vocabulary (German – English): Food, drinks, and shops
 
 ### Exercise baecker-bestellung
 
-- Task: Complete Sam's dialogue at the Lindenberg bakery.
+- Task: Complete Peter's dialogue at the Lindenberg bakery.
 - Answer format: fill in the gaps in German
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):

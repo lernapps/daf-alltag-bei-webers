@@ -41,11 +41,11 @@ If the address of this page names `bedarf=`, each section it names holds, severa
 
 Read and write informal emails and personal messages about everyday plans, news, and invitations.
 
-### Sam's First Longer Email Home
+### Peter's First Longer Email Home
 
-On Sunday evening, Sam writes a longer email to his friend Ben. A clear A2 **informal email** has five parts: **subject line** (*Betreff*), **greeting** (*Anrede*), **opening**, **body** (news, plans, or invitation), and **closing** (*Grußformel*).
+On Sunday evening, Peter writes a longer email to his friend Ben. A clear A2 **informal email** has five parts: **subject line** (*Betreff*), **greeting** (*Anrede*), **opening**, **body** (news, plans, or invitation), and **closing** (*Grußformel*).
 
-**Example: Sample Email from Sam**
+**Example: Sample Email from Peter**
 
 **Betreff:** Grüße aus Lindenberg! (*Greetings from Lindenberg!*)
 
@@ -58,7 +58,7 @@ Bei Familie Weber fühle ich mich richtig wohl. Am Samstag war ich mit Lukas ein
 Schreib mir bald! (*Write back soon!*)
 
 **Liebe Grüße** (*Warm regards*)
-**Sam**
+**Peter**
 
 **Remember: Watch Out After the Greeting!**
 
@@ -74,7 +74,7 @@ After **Lieber Ben,** or **Liebe Nadia,**, German uses a **comma** and starts th
 
 - Task: Put the parts of an informal email to Nadia in the right order.
 - Answer format: put the items in the right order (the app shows them shuffled)
-- Solution: 1. Liebe Nadia,, 2. vielen Dank für deine Nachricht! Wie war dein Wochenende?, 3. Am Samstag kochen wir bei Webers zusammen. Hast du Lust zu kommen?, 4. Sag mir bis Donnerstag Bescheid!, 5. Viele Grüße, Sam
+- Solution: 1. Liebe Nadia,, 2. vielen Dank für deine Nachricht! Wie war dein Wochenende?, 3. Am Samstag kochen wir bei Webers zusammen. Hast du Lust zu kommen?, 4. Sag mir bis Donnerstag Bescheid!, 5. Viele Grüße, Peter
 - Explanation: The greeting is followed by a personal opening, then the main news or invitation, a closing line, and the sign-off.
 - Link: [../?via=tutor#email-aufbau-ordnen](../?via=tutor#email-aufbau-ordnen)
 

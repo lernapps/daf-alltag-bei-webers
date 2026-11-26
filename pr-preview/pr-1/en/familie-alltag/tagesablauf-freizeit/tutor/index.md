@@ -41,9 +41,9 @@ If the address of this page names `bedarf=`, each section it names holds, severa
 
 Describe your daily routine, hobbies, and favorite free-time activities in German.
 
-### Sam's Daily Timeline in Lindenberg
+### Peter's Daily Timeline in Lindenberg
 
-On the **daily timeline** of his board, Sam maps out a typical school day at the Webers'. Many German daily-routine verbs are **separable**: the prefix moves to the end of the sentence (*Ich **stehe** um 6:45 Uhr **auf***).
+On the **daily timeline** of his board, Peter maps out a typical school day at the Webers'. Many German daily-routine verbs are **separable**: the prefix moves to the end of the sentence (*Ich **stehe** um 6:45 Uhr **auf***).
 
 A typical Tuesday at the Webers':
 - Time | In German | Meaning
@@ -70,7 +70,7 @@ Vocabulary (German – English): Key verbs for daily routine and hobbies
 
 ### Exercise tagesablauf-reihenfolge
 
-- Task: Put Sam's Tuesday in the right chronological order (from morning to evening).
+- Task: Put Peter's Tuesday in the right chronological order (from morning to evening).
 - Answer format: put the items in the right order (the app shows them shuffled)
 - Solution: 1. Um 6:45 Uhr stehe ich auf., 2. Um 7:15 Uhr frühstücke ich mit Familie Weber., 3. Am Nachmittag mache ich Hausaufgaben und treffe Nadia., 4. Um 22:00 Uhr gehe ich ins Bett.
 - Explanation: A typical day starts with getting up and having breakfast, continues with afternoon activities, and ends with going to bed at night.
@@ -84,7 +84,7 @@ Vocabulary (German – English): Key verbs for daily routine and hobbies
 - Items (start → solution):
 1. I get up at seven o'clock. → Ich stehe um sieben Uhr auf.
 2. In the evening, Herr Weber watches TV. → Abends sieht Herr Weber fern.
-3. Sam rides his bicycle to school. → Sam fährt mit dem Fahrrad zur Schule.
+3. Peter rides his bicycle to school. → Peter fährt mit dem Fahrrad zur Schule.
 4. In my free time I like listening to music. → In meiner Freizeit höre ich gern Musik.
 - The app's hint: With 'aufstehen' and 'fernsehen', the prefix goes to the end of the main clause.
 - Explanation: Separable verbs split in the present tense: conjugated stem in position 2, prefix at the very end.

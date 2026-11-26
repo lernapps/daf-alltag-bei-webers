@@ -43,7 +43,7 @@ Alltägliche Lebensmittel, Getränke, Mahlzeiten und Geschäfte benennen und nac
 
 ### Mit Mina beim Bäcker und im Supermarkt
 
-Samstagmorgen in Lindenberg: Sam und Mina füllen den **Essensplan** auf der Haus-und-Alltags-Tafel. Zuerst holen sie **Brötchen** in der **Bäckerei**, dann gehen sie in den **Supermarkt** – und geben am Automaten leere Flaschen mit **Pfand** ab.
+Samstagmorgen in Lindenberg: Peter und Mina füllen den **Essensplan** auf der Haus-und-Alltags-Tafel. Zuerst holen sie **Brötchen** in der **Bäckerei**, dann gehen sie in den **Supermarkt** – und geben am Automaten leere Flaschen mit **Pfand** ab.
 
 Vokabeln (Deutsch – Englisch): Lebensmittel, Getränke und Geschäfte
 - das Brot / das Brötchen, \"die Brote / die Brötchen\" – bread / bread roll. Beispiel: Ich hätte gern vier Brötchen. – I would like four bread rolls.
@@ -76,7 +76,7 @@ Vokabeln (Deutsch – Englisch): Lebensmittel, Getränke und Geschäfte
 
 ### Aufgabe baecker-bestellung
 
-- Aufgabe: Ergänze Sams Dialog in der Lindenberger Bäckerei.
+- Aufgabe: Ergänze Peters Dialog in der Lindenberger Bäckerei.
 - Antwortformat: die Lücken auf Deutsch füllen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):

@@ -43,7 +43,7 @@ Familienmitglieder, Freunde und grundlegende Beziehungsbegriffe auf Deutsch bene
 
 ### Webers Stammbaum auf der Tafel
 
-Am ersten Abend in Lindenberg zeichnet Sam den Stammbaum seiner Gastfamilie auf seine **Haus-und-Alltags-Tafel**: Katrin und Thomas Weber sind **verheiratet**. Sie sind die **Eltern** von Lukas (15) und Mina (12). In der Schule hat Sam schon eine neue **Freundin** gefunden – Nadia.
+Am ersten Abend in Lindenberg zeichnet Peter den Stammbaum seiner Gastfamilie auf seine **Haus-und-Alltags-Tafel**: Katrin und Thomas Weber sind **verheiratet**. Sie sind die **Eltern** von Lukas (15) und Mina (12). In der Schule hat Peter schon eine neue **Freundin** gefunden – Nadia.
 
 Vokabeln (Deutsch – Englisch): Familie, Freunde und Familienstand
 - die Eltern – parents (plural). Beispiel: Katrin und Thomas sind die Eltern. – Katrin and Thomas are the parents.
@@ -72,7 +72,7 @@ Vokabeln (Deutsch – Englisch): Familie, Freunde und Familienstand
 
 ### Aufgabe familie-schreiben
 
-- Aufgabe: Ergänze Sams Notizen über Familie Weber auf Deutsch.
+- Aufgabe: Ergänze Peters Notizen über Familie Weber auf Deutsch.
 - Antwortformat: die Lücken auf Deutsch füllen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):

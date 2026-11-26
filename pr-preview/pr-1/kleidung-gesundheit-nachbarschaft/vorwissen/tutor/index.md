@@ -45,14 +45,14 @@ Kurzer Rückblick für persönliche E-Mails: kurze Nachrichten und Einladungen s
 
 ### Kurz aufgefrischt
 
-Bevor Sam am Ende dieses Kapitels eine längere private E-Mail nach Hause schreibt, prüfe kurz dieses Vorwissen:
-- **Kurze Nachrichten schreiben** (*Writing short messages*): Ich kann kurze Nachrichten, Postkarten oder einfache E-Mails schreiben, um jemanden einzuladen oder nach einfachen Informationen zu fragen (*Hallo Nadia, hast du am Samstag um 15 Uhr Zeit? Liebe Grüße, Sam*).
+Bevor Peter am Ende dieses Kapitels eine längere private E-Mail nach Hause schreibt, prüfe kurz dieses Vorwissen:
+- **Kurze Nachrichten schreiben** (*Writing short messages*): Ich kann kurze Nachrichten, Postkarten oder einfache E-Mails schreiben, um jemanden einzuladen oder nach einfachen Informationen zu fragen (*Hallo Nadia, hast du am Samstag um 15 Uhr Zeit? Liebe Grüße, Peter*).
 
 - Aufgabe `kap3-vorwissen-check` (unten)
 
 ### Aufgabe kap3-vorwissen-check
 
-- Aufgabe: Richtig oder falsch: Eine kurze informelle Nachricht an eine Freundin kann mit „Hallo Nadia,“ beginnen und mit „Liebe Grüße, Sam“ enden.
+- Aufgabe: Richtig oder falsch: Eine kurze informelle Nachricht an eine Freundin kann mit „Hallo Nadia,“ beginnen und mit „Liebe Grüße, Peter“ enden.
 - Antwortformat: „Stimmt“ oder „Stimmt nicht“ wählen
 - Lösung: Die Aussage stimmt.
 - Erklärung: Richtig! Für Freunde und Familie passen 'Hallo …,' oder 'Liebe/Lieber …,' am Anfang und 'Liebe Grüße' am Ende.

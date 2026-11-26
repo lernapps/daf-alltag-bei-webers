@@ -43,7 +43,7 @@ Name colors, seasons, and basic weather conditions in German.
 
 ### The Weather-and-Wardrobe Closet on the Board
 
-Every morning before cycling to school, Sam checks the **weather section** of his board. All four **seasons** are masculine (*der Frühling, der Sommer, der Herbst, der Winter*) — and take *im*: **im Winter**, **im Sommer**.
+Every morning before cycling to school, Peter checks the **weather section** of his board. All four **seasons** are masculine (*der Frühling, der Sommer, der Herbst, der Winter*) — and take *im*: **im Winter**, **im Sommer**.
 
 Vocabulary (German – English): Seasons, weather, and colors
 - der Frühling / der Sommer – spring / summer
@@ -71,7 +71,7 @@ Vocabulary (German – English): Seasons, weather, and colors
 
 ### Exercise wetter-saetze
 
-- Task: Complete Sam's weather report for Lindenberg.
+- Task: Complete Peter's weather report for Lindenberg.
 - Answer format: fill in the gaps in German
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):

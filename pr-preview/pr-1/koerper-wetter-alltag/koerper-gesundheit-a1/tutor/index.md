@@ -41,9 +41,9 @@ Nennt die Adresse dieser Seite `bedarf=`, gilt jeder Abschnitt, den sie nennt, m
 
 Wichtige Körperteile benennen und auf Deutsch sagen, wenn etwas wehtut oder man sich krank fühlt.
 
-### Sam hat eine Erkältung
+### Peter hat eine Erkältung
 
-Im Herbst erwischt Sam in Lindenberg eine Erkältung. Auf dem **Gesundheitscheck** seiner Tafel notiert er die wichtigsten Körperteile und zwei Muster, um Schmerzen zu nennen: **Mein Kopf tut weh** (Singular) / **Meine Ohren tun weh** (Plural) oder **Ich habe Kopfschmerzen**.
+Im Herbst erwischt Peter in Lindenberg eine Erkältung. Auf dem **Gesundheitscheck** seiner Tafel notiert er die wichtigsten Körperteile und zwei Muster, um Schmerzen zu nennen: **Mein Kopf tut weh** (Singular) / **Meine Ohren tun weh** (Plural) oder **Ich habe Kopfschmerzen**.
 
 Vokabeln (Deutsch – Englisch): Körperteile und Schmerzen
 - der Kopf – head. Beispiel: Mein Kopf tut weh. – My head hurts.
@@ -72,7 +72,7 @@ Vokabeln (Deutsch – Englisch): Körperteile und Schmerzen
 
 ### Aufgabe schmerzen-sagen
 
-- Aufgabe: Wähle das passende Wort für Sams Gespräch mit Frau Weber.
+- Aufgabe: Wähle das passende Wort für Peters Gespräch mit Frau Weber.
 - Antwortformat: für jede Lücke ein Wort wählen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):

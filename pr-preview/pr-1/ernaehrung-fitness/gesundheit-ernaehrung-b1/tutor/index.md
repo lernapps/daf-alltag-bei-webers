@@ -41,9 +41,9 @@ Nennt die Adresse dieser Seite `bedarf=`, gilt jeder Abschnitt, den sie nennt, m
 
 Über ausgewogene Ernährung, Bewegung, Stressabbau und Gesundheitsvorsorge auf B1-Niveau sprechen.
 
-### Sams und Minas Gesundheits-Bilanz
+### Peters und Minas Gesundheits-Bilanz
 
-Im Frühling vergleichen Sam und Mina ihre Gewohnheiten auf dem **Gesundheitscheck** der Tafel: Mina trainiert dreimal pro Woche im **Sportverein** und achtet auf **ausgewogene Ernährung**; Sam merkt vor Klassenarbeiten, wie sehr **Stress** und Schlafmangel die Konzentration drücken.
+Im Frühling vergleichen Peter und Mina ihre Gewohnheiten auf dem **Gesundheitscheck** der Tafel: Mina trainiert dreimal pro Woche im **Sportverein** und achtet auf **ausgewogene Ernährung**; Peter merkt vor Klassenarbeiten, wie sehr **Stress** und Schlafmangel die Konzentration drücken.
 
 Vokabeln (Deutsch – Englisch): Wortschatz für Ernährung, Fitness und Stress (B1)
 - die ausgewogene Ernährung – balanced nutrition. Beispiel: Eine ausgewogene Ernährung enthält viel Gemüse und Vollkorn. – A balanced diet includes plenty of vegetables and whole grains.
@@ -67,11 +67,11 @@ Argumente und Ratschläge auf B1 formulieren:
 
 ### Aufgabe b1-ratschlag-waehlen
 
-- Aufgabe: Sam klagt vor einer schweren Mathearbeit: „Ich lerne bis Mitternacht, trinke drei Energy-Drinks und kann nicht schlafen.“ Welcher B1-Ratschlag von Mina passt sprachlich und inhaltlich am besten?
+- Aufgabe: Peter klagt vor einer schweren Mathearbeit: „Ich lerne bis Mitternacht, trinke drei Energy-Drinks und kann nicht schlafen.“ Welcher B1-Ratschlag von Mina passt sprachlich und inhaltlich am besten?
 - Antwortformat: eine Antwort wählen
 - Antworten zur Wahl (✓ richtig, ✗ falsch, mit der Meldung der App):
   - ✓ An deiner Stelle würde ich abends auf Energy-Drinks verzichten und früher schlafen gehen, weil Schlafmangel die Konzentration verschlechtert. – Starkes B1! Der Satz kombiniert Konjunktiv II ('würde'), 'verzichten auf' und einen begründeten 'weil'-Nebensatz.
-  - ✗ Ich habe Kopfschmerzen und mein Bein tut weh. – Das beschreibt eigene A1-Symptome, gibt aber keinen Ratschlag zu Sams Stressproblem.
+  - ✗ Ich habe Kopfschmerzen und mein Bein tut weh. – Das beschreibt eigene A1-Symptome, gibt aber keinen Ratschlag zu Peters Stressproblem.
   - ✗ Trink noch mehr Energy-Drinks, deshalb wirst du sofort entspannt. – Inhaltlich falsch: Energy-Drinks verstärken Unruhe und Schlafmangel statt zu entspannen.
 - Lösung: An deiner Stelle würde ich abends auf Energy-Drinks verzichten und früher schlafen gehen, weil Schlafmangel die Konzentration verschlechtert.
 - Erklärung: Auf B1-Niveau verbindest du Empfehlungen ('An deiner Stelle würde ich …') mit klaren Begründungen ('weil …', 'deshalb …').
@@ -79,7 +79,7 @@ Argumente und Ratschläge auf B1 formulieren:
 
 ### Aufgabe b1-gesundheit-luecken
 
-- Aufgabe: Ergänze Sams B1-Reflexion über gesunden Alltag in Lindenberg.
+- Aufgabe: Ergänze Peters B1-Reflexion über gesunden Alltag in Lindenberg.
 - Antwortformat: die Lücken auf Deutsch füllen
 - Wie die App Fehler der Form zählt: Groß- und Kleinschreibung falsch, Akzente falsch, Bindestrich falsch, Apostroph falsch, Satzzeichen falsch
 - Einträge (Vorgabe → Lösung):

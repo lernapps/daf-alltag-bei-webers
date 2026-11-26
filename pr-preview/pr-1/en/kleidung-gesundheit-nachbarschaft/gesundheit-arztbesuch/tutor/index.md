@@ -43,7 +43,7 @@ Describe symptoms, understand simple advice at the doctor's or pharmacy, and tal
 
 ### At the Family Doctor's and the Pharmacy
 
-Sam's cold gets worse: he has a **Husten** (cough), **Schnupfen** (runny nose), and a slight **Fieber** (fever). Frau Weber calls the **Arztpraxis** (doctor's office) to book a **Termin** (appointment). Sam brings his **Versichertenkarte** (health insurance card), then picks up his medication with a **Rezept** (prescription) at the **Apotheke** (pharmacy).
+Peter's cold gets worse: he has a **Husten** (cough), **Schnupfen** (runny nose), and a slight **Fieber** (fever). Frau Weber calls the **Arztpraxis** (doctor's office) to book a **Termin** (appointment). Peter brings his **Versichertenkarte** (health insurance card), then picks up his medication with a **Rezept** (prescription) at the **Apotheke** (pharmacy).
 
 Vocabulary (German – English): Symptoms, doctor's visit, and pharmacy
 - der Termin – appointment. Example: Ich brauche bitte einen Termin bei Frau Dr. Klein. – I need an appointment with Dr. Klein, please.
@@ -77,7 +77,7 @@ Vocabulary (German – English): Symptoms, doctor's visit, and pharmacy
 
 ### Exercise dosierung-verstehen
 
-- Task: Sam's medication label says: „Zweimal täglich eine Tablette vor dem Essen.“ What should Sam do?
+- Task: Peter's medication label says: „Zweimal täglich eine Tablette vor dem Essen.“ What should Peter do?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ He takes one tablet twice a day, before eating. – Exactly: 'zweimal täglich' = twice a day, 'vor dem Essen' = before meals.

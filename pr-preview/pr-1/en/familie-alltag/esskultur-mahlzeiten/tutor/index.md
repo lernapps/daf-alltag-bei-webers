@@ -43,7 +43,7 @@ Describe typical meal times, bakeries, cafés, and restaurant customs such as ti
 
 ### Breakfast, Lunch, and Abendbrot
 
-Sam is surprised on his first Sunday at the Webers': the warm main meal is often eaten at **lunchtime**, while dinner is traditionally a cold **Abendbrot** — bread or rolls with cheese, cold cuts, and sliced vegetables. In the afternoon, the Webers sometimes have **Kaffee und Kuchen** (coffee and cake).
+Peter is surprised on his first Sunday at the Webers': the warm main meal is often eaten at **lunchtime**, while dinner is traditionally a cold **Abendbrot** — bread or rolls with cheese, cold cuts, and sliced vegetables. In the afternoon, the Webers sometimes have **Kaffee und Kuchen** (coffee and cake).
 
 Typical meals and dining customs in Germany:
 - Occasion | Typical in Germany
@@ -64,7 +64,7 @@ The server often asks: **„Zusammen oder getrennt?“** (*Together or separate?
 
 ### Exercise trinkgeld-verhalten
 
-- Task: Sam and Herr Weber eat at a café in Lindenberg. The bill is €13.50. Sam wants to pay €15 including tip. What does he say to the server?
+- Task: Peter and Herr Weber eat at a café in Lindenberg. The bill is €13.50. Peter wants to pay €15 including tip. What does he say to the server?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ „Fünfzehn Euro, bitte.“ (handing over the bill directly when paying) – That is the standard custom in Germany: state the new total directly as you pay.

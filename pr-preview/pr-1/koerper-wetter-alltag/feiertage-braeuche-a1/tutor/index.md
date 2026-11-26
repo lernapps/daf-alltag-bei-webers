@@ -43,7 +43,7 @@ Wichtige gesetzliche Feiertage und jahreszeitliche Bräuche im deutschsprachigen
 
 ### Webers Jahreskalender
 
-In der Küche der Webers hängt ein großer Jahreskalender. An gesetzlichen **Feiertagen** sind Schulen und fast alle Geschäfte in Deutschland geschlossen. Sam markiert die wichtigsten Feste und typischen Grüße.
+In der Küche der Webers hängt ein großer Jahreskalender. An gesetzlichen **Feiertagen** sind Schulen und fast alle Geschäfte in Deutschland geschlossen. Peter markiert die wichtigsten Feste und typischen Grüße.
 
 Wichtige Feiertage und Traditionen in Deutschland:
 - Feiertag & Zeit | Bräuche & Gruß

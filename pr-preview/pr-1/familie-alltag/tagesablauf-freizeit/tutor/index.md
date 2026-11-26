@@ -41,9 +41,9 @@ Nennt die Adresse dieser Seite `bedarf=`, gilt jeder Abschnitt, den sie nennt, m
 
 Den eigenen Tagesablauf, Hobbys und liebste Freizeitaktivitäten auf Deutsch beschreiben.
 
-### Sams Tagesleiste in Lindenberg
+### Peters Tagesleiste in Lindenberg
 
-Auf der **Tagesleiste** seiner Tafel trägt Sam einen typischen Schultag bei Webers ein. Viele deutsche Verben für den Tagesablauf sind **trennbar**: Die Vorsilbe wandert ans Satzende (*Ich **stehe** um 6:45 Uhr **auf***).
+Auf der **Tagesleiste** seiner Tafel trägt Peter einen typischen Schultag bei Webers ein. Viele deutsche Verben für den Tagesablauf sind **trennbar**: Die Vorsilbe wandert ans Satzende (*Ich **stehe** um 6:45 Uhr **auf***).
 
 Ein typischer Dienstag bei Familie Weber:
 - Uhrzeit | Auf Deutsch | Bedeutung
@@ -70,7 +70,7 @@ Vokabeln (Deutsch – Englisch): Wichtige Verben für Alltag und Hobbys
 
 ### Aufgabe tagesablauf-reihenfolge
 
-- Aufgabe: Bringe Sams Dienstag in die richtige zeitliche Reihenfolge (von morgens bis abends).
+- Aufgabe: Bringe Peters Dienstag in die richtige zeitliche Reihenfolge (von morgens bis abends).
 - Antwortformat: die Einträge in die richtige Reihenfolge bringen (die App zeigt sie gemischt)
 - Lösung: 1. Um 6:45 Uhr stehe ich auf., 2. Um 7:15 Uhr frühstücke ich mit Familie Weber., 3. Am Nachmittag mache ich Hausaufgaben und treffe Nadia., 4. Um 22:00 Uhr gehe ich ins Bett.
 - Erklärung: Ein typischer Tag beginnt mit dem Aufstehen und Frühstücken, geht weiter mit Nachmittagsaktivitäten und endet abends mit dem Schlafengehen.
@@ -84,7 +84,7 @@ Vokabeln (Deutsch – Englisch): Wichtige Verben für Alltag und Hobbys
 - Einträge (Vorgabe → Lösung):
 1. I get up at seven o'clock. → Ich stehe um sieben Uhr auf.
 2. In the evening, Herr Weber watches TV. → Abends sieht Herr Weber fern.
-3. Sam rides his bicycle to school. → Sam fährt mit dem Fahrrad zur Schule.
+3. Peter rides his bicycle to school. → Peter fährt mit dem Fahrrad zur Schule.
 4. In my free time I like listening to music. → In meiner Freizeit höre ich gern Musik.
 - Tipp der App: Bei 'aufstehen' und 'fernsehen' steht die Vorsilbe am Ende des Hauptsatzes.
 - Erklärung: Trennbare Verben teilen sich im Präsens: konjugierter Stamm auf Position 2, Vorsilbe ganz am Ende.

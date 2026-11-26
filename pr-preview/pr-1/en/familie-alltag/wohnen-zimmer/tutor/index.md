@@ -43,7 +43,7 @@ Name rooms, furniture, and everyday household items to describe a home.
 
 ### The Webers' Floor Plan
 
-Next section on Sam's **Home-and-Daily-Life Board**: the floor plan of the house in Lindenberg. Downstairs are **das Wohnzimmer** (living room), **die Küche** (kitchen), and **der Flur** (hallway). Upstairs, Sam has his own room next to **das Bad** (bathroom).
+Next section on Peter's **Home-and-Daily-Life Board**: the floor plan of the house in Lindenberg. Downstairs are **das Wohnzimmer** (living room), **die Küche** (kitchen), and **der Flur** (hallway). Upstairs, Peter has his own room next to **das Bad** (bathroom).
 
 Vocabulary (German – English): Rooms and furniture in the house
 - die Wohnung / das Haus – apartment / house
@@ -71,7 +71,7 @@ In German compound nouns, the **last part** always determines the article: *das 
 
 ### Exercise zimmer-artikel
 
-- Task: Which sentence describes Sam's room accurately in German?
+- Task: Which sentence describes Peter's room accurately in German?
 - Answer format: choose one answer
 - Choices (✓ right, ✗ wrong, with the app's message):
   - ✓ In meinem Zimmer stehen ein Bett, ein Schreibtisch und ein Regal. – Correct! All three items are typical bedroom furniture with the right indefinite articles.
@@ -83,12 +83,12 @@ In German compound nouns, the **last part** always determines the article: *das 
 
 ### Exercise moebel-luecken
 
-- Task: Choose the right German word for Sam's floor plan.
+- Task: Choose the right German word for Peter's floor plan.
 - Answer format: choose a word for each gap
 - How the app counts mistakes of form: capital letters wrong, accents wrong, hyphen wrong, apostrophe wrong, punctuation wrong
 - Items (start → solution):
 1. We cook in the kitchen. → Wir kochen in der Küche.
-2. Sam studies at the desk. → Sam lernt am Schreibtisch.
+2. Peter studies at the desk. → Peter lernt am Schreibtisch.
 3. The clothes are in the wardrobe. → Die Kleidung ist im Schrank.
 4. The books are on the shelf. → Die Bücher stehen im Regal.
 - Explanation: Küche (kitchen), Schreibtisch (desk), Schrank (wardrobe), and Regal (shelf) are core housing vocabulary.
